@@ -1,0 +1,2628 @@
+[
+  {
+    "id": "ielts-reading-1",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Passage: Online Learning",
+    "passage": "Online learning has become more common in recent years. Many students use digital platforms to watch lessons, complete quizzes, and communicate with teachers. Although online learning is flexible, it also requires discipline. Students who do not manage their time well may fall behind. However, when used properly, online education can help learners study at their own pace and access materials from anywhere.",
+    "questions": [
+      {
+        "q": "What is one benefit of online learning?",
+        "options": [
+          "It removes all exams",
+          "It is flexible",
+          "It replaces teachers completely"
+        ],
+        "answer": "It is flexible"
+      },
+      {
+        "q": "What problem may students face?",
+        "options": [
+          "Lack of discipline",
+          "Too many books",
+          "No internet is needed"
+        ],
+        "answer": "Lack of discipline"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-2",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Passage: Public Transport",
+    "passage": "Public transport plays a crucial role in reducing traffic congestion in large cities. Buses, trains, and metro systems allow thousands of people to travel efficiently. Nevertheless, some people still prefer private cars because they are more convenient. To encourage public transport use, governments need to improve safety, reliability, and comfort.",
+    "questions": [
+      {
+        "q": "According to the passage, why is public transport important?",
+        "options": [
+          "It reduces traffic congestion",
+          "It is always free",
+          "It stops people from walking"
+        ],
+        "answer": "It reduces traffic congestion"
+      },
+      {
+        "q": "What should governments improve?",
+        "options": [
+          "Safety and reliability",
+          "Car prices",
+          "Private parking"
+        ],
+        "answer": "Safety and reliability"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-1",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 1: Campus Tour",
+    "media": "Audio/video placeholder. Add your own MP3 or YouTube embed later.",
+    "transcript": "Welcome to the campus tour. First, we will visit the library. Then, we will go to the science building. At the end of the tour, you can ask questions about student clubs and scholarships.",
+    "vocabulary": [
+      "campus",
+      "library",
+      "science building",
+      "student clubs",
+      "scholarships"
+    ],
+    "questions": [
+      {
+        "q": "Where will they go first?",
+        "options": [
+          "Library",
+          "Cafeteria",
+          "Dormitory"
+        ],
+        "answer": "Library"
+      },
+      {
+        "q": "What can students ask about at the end?",
+        "options": [
+          "Student clubs and scholarships",
+          "Weather",
+          "Airplane tickets"
+        ],
+        "answer": "Student clubs and scholarships"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-2",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 2: Study Plan",
+    "media": "Audio/video placeholder. Add your own MP3 or YouTube embed later.",
+    "transcript": "For IELTS preparation, it is better to study consistently. Spend twenty minutes reviewing vocabulary, thirty minutes practicing grammar, and ten minutes speaking aloud every day.",
+    "vocabulary": [
+      "preparation",
+      "consistently",
+      "reviewing",
+      "grammar",
+      "speaking aloud"
+    ],
+    "questions": [
+      {
+        "q": "How long should learners review vocabulary?",
+        "options": [
+          "20 minutes",
+          "30 minutes",
+          "10 minutes"
+        ],
+        "answer": "20 minutes"
+      },
+      {
+        "q": "What should learners do for ten minutes?",
+        "options": [
+          "Speak aloud",
+          "Sleep",
+          "Watch movies"
+        ],
+        "answer": "Speak aloud"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-01",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Module 1: Online Learning",
+    "passage": "Online learning allows students to access lessons from anywhere. It offers flexibility, but learners need discipline and clear goals. Some students benefit from recorded lessons because they can pause and review difficult parts. However, others miss face-to-face interaction and may feel isolated. Overall, digital learning works best when teachers combine technology with active guidance. This module focuses on education vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Online Learning",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Online Learning"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-02",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Module 2: Public Transport",
+    "passage": "Public transport can reduce congestion and air pollution in large cities. Buses, trains, and metro systems move many people using less road space than private cars. Nevertheless, some citizens avoid public transport if it is crowded, unreliable, or unsafe. To increase usage, governments should improve comfort, frequency, and affordability. This module focuses on transport vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Public Transport",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Public Transport"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-03",
+    "type": "Reading",
+    "level": "Band 7-8",
+    "title": "Reading Module 3: Healthy Lifestyle",
+    "passage": "A healthy lifestyle is influenced by diet, exercise, sleep, and stress management. Many young people understand the importance of health, yet they often struggle to maintain good habits. Schools and families can support healthier routines by providing accurate information and encouraging regular physical activity. This module focuses on health vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Healthy Lifestyle",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Healthy Lifestyle"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-04",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Module 4: Renewable Energy",
+    "passage": "Renewable energy sources such as solar and wind power are becoming more common. They can reduce dependence on fossil fuels and lower emissions. However, renewable systems may require high initial investment and stable infrastructure. In the long term, cleaner energy can support sustainable economic growth. This module focuses on environment vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Renewable Energy",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Renewable Energy"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-05",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Module 5: Urban Housing",
+    "passage": "Housing has become a major challenge in many urban areas. As more people move to cities, demand for affordable homes increases. High prices can force families to live far from their workplaces. Urban planners need to balance housing, transport, green space, and public facilities. This module focuses on society vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Urban Housing",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Urban Housing"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-06",
+    "type": "Reading",
+    "level": "Band 7-8",
+    "title": "Reading Module 6: Artificial Intelligence",
+    "passage": "Artificial intelligence is changing the way people study and work. It can help users summarize information, correct writing, and generate ideas. However, people should not rely on AI without checking accuracy. The most effective users treat AI as a tool rather than a replacement for critical thinking. This module focuses on technology vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Artificial Intelligence",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Artificial Intelligence"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-07",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Module 7: Tourism and Culture",
+    "passage": "Tourism can bring income to local communities and create jobs. It also allows visitors to learn about different cultures. On the other hand, excessive tourism may damage historical places and disturb residents. Responsible tourism requires respect for local traditions and environmental limits. This module focuses on culture vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Tourism and Culture",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Tourism and Culture"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-08",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Module 8: Work From Home",
+    "passage": "Remote work has become more popular because digital tools allow people to communicate online. It can save commuting time and improve flexibility. However, some employees find it difficult to separate work and personal life. Companies need clear rules to maintain productivity and well-being. This module focuses on work vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Work From Home",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Work From Home"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-09",
+    "type": "Reading",
+    "level": "Band 7-8",
+    "title": "Reading Module 9: Plastic Waste",
+    "passage": "Plastic waste is a serious environmental problem because many plastic products take a long time to break down. Reducing single-use plastic, improving recycling systems, and encouraging reusable products can help. Individuals, businesses, and governments all have roles in solving this issue. This module focuses on environment vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Plastic Waste",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Plastic Waste"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-10",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Module 10: Financial Literacy",
+    "passage": "Financial literacy helps people make better decisions about saving, spending, and investing. Young people often receive little practical education about money. Learning basic budgeting and risk management can prevent debt and support long-term goals. This module focuses on finance vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Financial Literacy",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Financial Literacy"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-11",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Module 11: Online Learning",
+    "passage": "Online learning allows students to access lessons from anywhere. It offers flexibility, but learners need discipline and clear goals. Some students benefit from recorded lessons because they can pause and review difficult parts. However, others miss face-to-face interaction and may feel isolated. Overall, digital learning works best when teachers combine technology with active guidance. This module focuses on education vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Online Learning",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Online Learning"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-12",
+    "type": "Reading",
+    "level": "Band 7-8",
+    "title": "Reading Module 12: Public Transport",
+    "passage": "Public transport can reduce congestion and air pollution in large cities. Buses, trains, and metro systems move many people using less road space than private cars. Nevertheless, some citizens avoid public transport if it is crowded, unreliable, or unsafe. To increase usage, governments should improve comfort, frequency, and affordability. This module focuses on transport vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Public Transport",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Public Transport"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-13",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Module 13: Healthy Lifestyle",
+    "passage": "A healthy lifestyle is influenced by diet, exercise, sleep, and stress management. Many young people understand the importance of health, yet they often struggle to maintain good habits. Schools and families can support healthier routines by providing accurate information and encouraging regular physical activity. This module focuses on health vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Healthy Lifestyle",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Healthy Lifestyle"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-14",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Module 14: Renewable Energy",
+    "passage": "Renewable energy sources such as solar and wind power are becoming more common. They can reduce dependence on fossil fuels and lower emissions. However, renewable systems may require high initial investment and stable infrastructure. In the long term, cleaner energy can support sustainable economic growth. This module focuses on environment vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Renewable Energy",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Renewable Energy"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-15",
+    "type": "Reading",
+    "level": "Band 7-8",
+    "title": "Reading Module 15: Urban Housing",
+    "passage": "Housing has become a major challenge in many urban areas. As more people move to cities, demand for affordable homes increases. High prices can force families to live far from their workplaces. Urban planners need to balance housing, transport, green space, and public facilities. This module focuses on society vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Urban Housing",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Urban Housing"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-16",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Module 16: Artificial Intelligence",
+    "passage": "Artificial intelligence is changing the way people study and work. It can help users summarize information, correct writing, and generate ideas. However, people should not rely on AI without checking accuracy. The most effective users treat AI as a tool rather than a replacement for critical thinking. This module focuses on technology vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Artificial Intelligence",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Artificial Intelligence"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-17",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Module 17: Tourism and Culture",
+    "passage": "Tourism can bring income to local communities and create jobs. It also allows visitors to learn about different cultures. On the other hand, excessive tourism may damage historical places and disturb residents. Responsible tourism requires respect for local traditions and environmental limits. This module focuses on culture vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Tourism and Culture",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Tourism and Culture"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-18",
+    "type": "Reading",
+    "level": "Band 7-8",
+    "title": "Reading Module 18: Work From Home",
+    "passage": "Remote work has become more popular because digital tools allow people to communicate online. It can save commuting time and improve flexibility. However, some employees find it difficult to separate work and personal life. Companies need clear rules to maintain productivity and well-being. This module focuses on work vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Work From Home",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Work From Home"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-19",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Module 19: Plastic Waste",
+    "passage": "Plastic waste is a serious environmental problem because many plastic products take a long time to break down. Reducing single-use plastic, improving recycling systems, and encouraging reusable products can help. Individuals, businesses, and governments all have roles in solving this issue. This module focuses on environment vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Plastic Waste",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Plastic Waste"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-20",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Module 20: Financial Literacy",
+    "passage": "Financial literacy helps people make better decisions about saving, spending, and investing. Young people often receive little practical education about money. Learning basic budgeting and risk management can prevent debt and support long-term goals. This module focuses on finance vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Financial Literacy",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Financial Literacy"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-21",
+    "type": "Reading",
+    "level": "Band 7-8",
+    "title": "Reading Module 21: Online Learning",
+    "passage": "Online learning allows students to access lessons from anywhere. It offers flexibility, but learners need discipline and clear goals. Some students benefit from recorded lessons because they can pause and review difficult parts. However, others miss face-to-face interaction and may feel isolated. Overall, digital learning works best when teachers combine technology with active guidance. This module focuses on education vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Online Learning",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Online Learning"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-22",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Module 22: Public Transport",
+    "passage": "Public transport can reduce congestion and air pollution in large cities. Buses, trains, and metro systems move many people using less road space than private cars. Nevertheless, some citizens avoid public transport if it is crowded, unreliable, or unsafe. To increase usage, governments should improve comfort, frequency, and affordability. This module focuses on transport vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Public Transport",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Public Transport"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-23",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Module 23: Healthy Lifestyle",
+    "passage": "A healthy lifestyle is influenced by diet, exercise, sleep, and stress management. Many young people understand the importance of health, yet they often struggle to maintain good habits. Schools and families can support healthier routines by providing accurate information and encouraging regular physical activity. This module focuses on health vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Healthy Lifestyle",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Healthy Lifestyle"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-24",
+    "type": "Reading",
+    "level": "Band 7-8",
+    "title": "Reading Module 24: Renewable Energy",
+    "passage": "Renewable energy sources such as solar and wind power are becoming more common. They can reduce dependence on fossil fuels and lower emissions. However, renewable systems may require high initial investment and stable infrastructure. In the long term, cleaner energy can support sustainable economic growth. This module focuses on environment vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Renewable Energy",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Renewable Energy"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-25",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Module 25: Urban Housing",
+    "passage": "Housing has become a major challenge in many urban areas. As more people move to cities, demand for affordable homes increases. High prices can force families to live far from their workplaces. Urban planners need to balance housing, transport, green space, and public facilities. This module focuses on society vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Urban Housing",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Urban Housing"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-26",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Module 26: Artificial Intelligence",
+    "passage": "Artificial intelligence is changing the way people study and work. It can help users summarize information, correct writing, and generate ideas. However, people should not rely on AI without checking accuracy. The most effective users treat AI as a tool rather than a replacement for critical thinking. This module focuses on technology vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Artificial Intelligence",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Artificial Intelligence"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-27",
+    "type": "Reading",
+    "level": "Band 7-8",
+    "title": "Reading Module 27: Tourism and Culture",
+    "passage": "Tourism can bring income to local communities and create jobs. It also allows visitors to learn about different cultures. On the other hand, excessive tourism may damage historical places and disturb residents. Responsible tourism requires respect for local traditions and environmental limits. This module focuses on culture vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Tourism and Culture",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Tourism and Culture"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-28",
+    "type": "Reading",
+    "level": "Band 5-6",
+    "title": "Reading Module 28: Work From Home",
+    "passage": "Remote work has become more popular because digital tools allow people to communicate online. It can save commuting time and improve flexibility. However, some employees find it difficult to separate work and personal life. Companies need clear rules to maintain productivity and well-being. This module focuses on work vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Work From Home",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Work From Home"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-29",
+    "type": "Reading",
+    "level": "Band 6-7",
+    "title": "Reading Module 29: Plastic Waste",
+    "passage": "Plastic waste is a serious environmental problem because many plastic products take a long time to break down. Reducing single-use plastic, improving recycling systems, and encouraging reusable products can help. Individuals, businesses, and governments all have roles in solving this issue. This module focuses on environment vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Plastic Waste",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Plastic Waste"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-reading-auto-30",
+    "type": "Reading",
+    "level": "Band 7-8",
+    "title": "Reading Module 30: Financial Literacy",
+    "passage": "Financial literacy helps people make better decisions about saving, spending, and investing. Young people often receive little practical education about money. Learning basic budgeting and risk management can prevent debt and support long-term goals. This module focuses on finance vocabulary and IELTS-style comprehension.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main topic of the passage?",
+        "options": [
+          "Financial Literacy",
+          "Sports results",
+          "A personal diary"
+        ],
+        "answer": "Financial Literacy"
+      },
+      {
+        "type": "multiple",
+        "q": "According to the passage, what is one possible challenge?",
+        "options": [
+          "It may create a problem if not managed well",
+          "It is always perfect",
+          "It has no impact"
+        ],
+        "answer": "It may create a problem if not managed well"
+      },
+      {
+        "type": "short",
+        "q": "Write one benefit mentioned in the passage.",
+        "answer": "benefit from the passage"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The passage suggests that good planning can improve _____.",
+        "answer": "outcomes"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-01",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 1: Campus Tour",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A student guide explains the library, science building, cafeteria, dormitory, clubs, and scholarship office during a campus tour. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Campus Tour",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Campus Tour"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "campus tour"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-02",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 2: Booking a Course",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A student calls an English center to ask about IELTS preparation classes, schedules, fees, and placement tests. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Booking a Course",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Booking a Course"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "booking a course"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-03",
+    "type": "Listening",
+    "level": "Band 7-8",
+    "title": "Listening Lesson 3: Part-time Job",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "Two students discuss a part-time job at a bookstore, including working hours, salary, training, and responsibilities. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Part-time Job",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Part-time Job"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "part-time job"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-04",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 4: Library Rules",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A librarian explains borrowing limits, late fees, quiet study rooms, online journals, and printing services. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Library Rules",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Library Rules"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "library rules"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-05",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 5: Health Appointment",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A student talks to a clinic receptionist about symptoms, appointment time, insurance, and required documents. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Health Appointment",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Health Appointment"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "health appointment"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-06",
+    "type": "Listening",
+    "level": "Band 7-8",
+    "title": "Listening Lesson 6: Travel Plan",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "Two friends plan a weekend trip, compare transport options, accommodation, budget, and weather conditions. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Travel Plan",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Travel Plan"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "travel plan"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-07",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 7: Science Lecture",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A lecturer introduces renewable energy, solar panels, wind turbines, storage problems, and future research. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Science Lecture",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Science Lecture"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "science lecture"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-08",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 8: Business Seminar",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A speaker discusses marketing, customer trust, online platforms, and small business strategy. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Business Seminar",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Business Seminar"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "business seminar"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-09",
+    "type": "Listening",
+    "level": "Band 7-8",
+    "title": "Listening Lesson 9: Museum Visit",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A guide describes historical objects, local culture, opening hours, tickets, and visitor rules. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Museum Visit",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Museum Visit"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "museum visit"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-10",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 10: Study Abroad",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A counselor explains IELTS, HSK, motivation letters, recommendation letters, and scholarship deadlines. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Study Abroad",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Study Abroad"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "study abroad"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-11",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 11: Campus Tour",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A student guide explains the library, science building, cafeteria, dormitory, clubs, and scholarship office during a campus tour. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Campus Tour",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Campus Tour"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "campus tour"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-12",
+    "type": "Listening",
+    "level": "Band 7-8",
+    "title": "Listening Lesson 12: Booking a Course",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A student calls an English center to ask about IELTS preparation classes, schedules, fees, and placement tests. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Booking a Course",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Booking a Course"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "booking a course"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-13",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 13: Part-time Job",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "Two students discuss a part-time job at a bookstore, including working hours, salary, training, and responsibilities. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Part-time Job",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Part-time Job"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "part-time job"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-14",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 14: Library Rules",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A librarian explains borrowing limits, late fees, quiet study rooms, online journals, and printing services. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Library Rules",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Library Rules"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "library rules"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-15",
+    "type": "Listening",
+    "level": "Band 7-8",
+    "title": "Listening Lesson 15: Health Appointment",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A student talks to a clinic receptionist about symptoms, appointment time, insurance, and required documents. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Health Appointment",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Health Appointment"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "health appointment"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-16",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 16: Travel Plan",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "Two friends plan a weekend trip, compare transport options, accommodation, budget, and weather conditions. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Travel Plan",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Travel Plan"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "travel plan"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-17",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 17: Science Lecture",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A lecturer introduces renewable energy, solar panels, wind turbines, storage problems, and future research. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Science Lecture",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Science Lecture"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "science lecture"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-18",
+    "type": "Listening",
+    "level": "Band 7-8",
+    "title": "Listening Lesson 18: Business Seminar",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A speaker discusses marketing, customer trust, online platforms, and small business strategy. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Business Seminar",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Business Seminar"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "business seminar"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-19",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 19: Museum Visit",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A guide describes historical objects, local culture, opening hours, tickets, and visitor rules. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Museum Visit",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Museum Visit"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "museum visit"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-20",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 20: Study Abroad",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A counselor explains IELTS, HSK, motivation letters, recommendation letters, and scholarship deadlines. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Study Abroad",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Study Abroad"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "study abroad"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-21",
+    "type": "Listening",
+    "level": "Band 7-8",
+    "title": "Listening Lesson 21: Campus Tour",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A student guide explains the library, science building, cafeteria, dormitory, clubs, and scholarship office during a campus tour. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Campus Tour",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Campus Tour"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "campus tour"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-22",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 22: Booking a Course",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A student calls an English center to ask about IELTS preparation classes, schedules, fees, and placement tests. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Booking a Course",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Booking a Course"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "booking a course"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-23",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 23: Part-time Job",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "Two students discuss a part-time job at a bookstore, including working hours, salary, training, and responsibilities. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Part-time Job",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Part-time Job"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "part-time job"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-24",
+    "type": "Listening",
+    "level": "Band 7-8",
+    "title": "Listening Lesson 24: Library Rules",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A librarian explains borrowing limits, late fees, quiet study rooms, online journals, and printing services. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Library Rules",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Library Rules"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "library rules"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-25",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 25: Health Appointment",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A student talks to a clinic receptionist about symptoms, appointment time, insurance, and required documents. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Health Appointment",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Health Appointment"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "health appointment"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-26",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 26: Travel Plan",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "Two friends plan a weekend trip, compare transport options, accommodation, budget, and weather conditions. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Travel Plan",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Travel Plan"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "travel plan"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-27",
+    "type": "Listening",
+    "level": "Band 7-8",
+    "title": "Listening Lesson 27: Science Lecture",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A lecturer introduces renewable energy, solar panels, wind turbines, storage problems, and future research. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Science Lecture",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Science Lecture"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "science lecture"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-28",
+    "type": "Listening",
+    "level": "Band 5-6",
+    "title": "Listening Lesson 28: Business Seminar",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A speaker discusses marketing, customer trust, online platforms, and small business strategy. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Business Seminar",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Business Seminar"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "business seminar"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-29",
+    "type": "Listening",
+    "level": "Band 6-7",
+    "title": "Listening Lesson 29: Museum Visit",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A guide describes historical objects, local culture, opening hours, tickets, and visitor rules. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Museum Visit",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Museum Visit"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "museum visit"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-auto-30",
+    "type": "Listening",
+    "level": "Band 7-8",
+    "title": "Listening Lesson 30: Study Abroad",
+    "youtubeId": "",
+    "youtubeUrl": "",
+    "source": "Paste BBC Learning English / IELTS YouTube URL in the Add YouTube Lesson box.",
+    "transcript": "A counselor explains IELTS, HSK, motivation letters, recommendation letters, and scholarship deadlines. Listen for names, numbers, locations, reasons, and key academic vocabulary.",
+    "questions": [
+      {
+        "type": "multiple",
+        "q": "What is the main situation?",
+        "options": [
+          "Study Abroad",
+          "A cooking show",
+          "A sports match"
+        ],
+        "answer": "Study Abroad"
+      },
+      {
+        "type": "short",
+        "q": "Write two key details you heard.",
+        "answer": "two relevant details"
+      },
+      {
+        "type": "fill",
+        "q": "Complete: The speaker gives information about _____.",
+        "answer": "study abroad"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-01",
+    "type": "Listening Simulation",
+    "level": "Band 5-6",
+    "title": "IELTS Listening Simulation 1",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-02",
+    "type": "Listening Simulation",
+    "level": "Band 6-7",
+    "title": "IELTS Listening Simulation 2",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-03",
+    "type": "Listening Simulation",
+    "level": "Band 7-8",
+    "title": "IELTS Listening Simulation 3",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-04",
+    "type": "Listening Simulation",
+    "level": "Band 8-9",
+    "title": "IELTS Listening Simulation 4",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-05",
+    "type": "Listening Simulation",
+    "level": "Band 5-6",
+    "title": "IELTS Listening Simulation 5",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-06",
+    "type": "Listening Simulation",
+    "level": "Band 6-7",
+    "title": "IELTS Listening Simulation 6",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-07",
+    "type": "Listening Simulation",
+    "level": "Band 7-8",
+    "title": "IELTS Listening Simulation 7",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-08",
+    "type": "Listening Simulation",
+    "level": "Band 8-9",
+    "title": "IELTS Listening Simulation 8",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-09",
+    "type": "Listening Simulation",
+    "level": "Band 5-6",
+    "title": "IELTS Listening Simulation 9",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-10",
+    "type": "Listening Simulation",
+    "level": "Band 6-7",
+    "title": "IELTS Listening Simulation 10",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-11",
+    "type": "Listening Simulation",
+    "level": "Band 7-8",
+    "title": "IELTS Listening Simulation 11",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  },
+  {
+    "id": "ielts-listening-sim-12",
+    "type": "Listening Simulation",
+    "level": "Band 8-9",
+    "title": "IELTS Listening Simulation 12",
+    "youtubeId": "",
+    "source": "Simulation placeholder. Add official/allowed audio or YouTube embed.",
+    "transcript": "Simulation transcript placeholder: Section 1 conversation, Section 2 monologue, Section 3 academic discussion, Section 4 lecture. Replace with your own transcript or generate questions with AI from allowed material.",
+    "questions": [
+      {
+        "type": "fill",
+        "q": "Section 1: The appointment is on _____.",
+        "answer": "Monday"
+      },
+      {
+        "type": "multiple",
+        "q": "What is the main academic topic?",
+        "options": [
+          "Education",
+          "Sports score",
+          "Shopping list"
+        ],
+        "answer": "Education"
+      },
+      {
+        "type": "short",
+        "q": "Summarize the lecture in one sentence.",
+        "answer": "relevant summary"
+      }
+    ]
+  }
+]

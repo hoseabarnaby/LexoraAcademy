@@ -1,0 +1,1525 @@
+{
+  "english": {
+    "name": "IELTS English",
+    "levels": [
+      "Band 4–5",
+      "Band 5–6",
+      "Band 6–7",
+      "Band 7+"
+    ],
+    "sets": [
+      {
+        "id": "ielts-reading-urban",
+        "title": "Academic Reading · Urban Nature",
+        "skill": "Reading",
+        "level": "Band 5–6",
+        "time": 18,
+        "passage": "Urban green roofs are increasingly used to reduce heat in densely populated cities. Unlike conventional roofs, they contain layers of soil and vegetation that absorb rainwater and provide habitat for insects. Researchers have found that their cooling effect varies according to plant type, soil depth, and local climate. Some city governments subsidise installation, although maintenance costs remain a concern for building owners. Evidence that green roofs substantially reduce city-wide air pollution is still limited.",
+        "questions": [
+          {
+            "type": "tfng",
+            "prompt": "Green roofs always produce the same cooling effect.",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ],
+            "answer": "FALSE",
+            "evidence": "The cooling effect varies according to plant type, soil depth, and climate.",
+            "explain": "“Always the same” contradicts “varies”."
+          },
+          {
+            "type": "tfng",
+            "prompt": "Some governments help pay for green-roof installation.",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ],
+            "answer": "TRUE",
+            "evidence": "Some city governments subsidise installation.",
+            "explain": "Subsidise means help pay for."
+          },
+          {
+            "type": "tfng",
+            "prompt": "Most building owners recover maintenance costs within five years.",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ],
+            "answer": "NOT GIVEN",
+            "evidence": "The passage mentions maintenance costs but gives no recovery period.",
+            "explain": "No five-year information appears."
+          },
+          {
+            "type": "mcq",
+            "prompt": "What is the main purpose of the passage?",
+            "options": [
+              "To describe benefits and limitations of green roofs",
+              "To argue that all roofs should be replaced",
+              "To compare city transport systems",
+              "To explain how insects damage buildings"
+            ],
+            "answer": "To describe benefits and limitations of green roofs",
+            "explain": "The text presents uses, variables, support, and limitations."
+          },
+          {
+            "type": "completion",
+            "prompt": "Green roofs can absorb ______ and support insects.",
+            "answer": "rainwater",
+            "accept": [
+              "rainwater"
+            ],
+            "explain": "The passage explicitly says they absorb rainwater."
+          },
+          {
+            "type": "matching",
+            "prompt": "Match “subsidise” with its closest meaning.",
+            "options": [
+              "financially support",
+              "legally prohibit",
+              "scientifically measure",
+              "physically remove"
+            ],
+            "answer": "financially support",
+            "explain": "A subsidy is financial support."
+          }
+        ]
+      },
+      {
+        "id": "ielts-reading-memory",
+        "title": "Academic Reading · Human Memory",
+        "skill": "Reading",
+        "level": "Band 6–7",
+        "time": 20,
+        "passage": "Memory is not a perfect recording of experience. Each time people recall an event, they may reconstruct it using fragments of stored information together with current expectations. Experiments have shown that misleading questions can alter later reports, especially when witnesses are uncertain. However, confidence is not always a reliable indicator of accuracy. Training interviewers to use open questions can reduce, but not eliminate, memory distortion.",
+        "questions": [
+          {
+            "type": "ynng",
+            "prompt": "The writer believes memory functions exactly like a video recording.",
+            "options": [
+              "YES",
+              "NO",
+              "NOT GIVEN"
+            ],
+            "answer": "NO",
+            "evidence": "Memory is not a perfect recording.",
+            "explain": "The statement contradicts the writer."
+          },
+          {
+            "type": "ynng",
+            "prompt": "Misleading questions may influence what witnesses later report.",
+            "options": [
+              "YES",
+              "NO",
+              "NOT GIVEN"
+            ],
+            "answer": "YES",
+            "evidence": "Experiments show misleading questions can alter later reports.",
+            "explain": "Direct agreement."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which statement is supported?",
+            "options": [
+              "Confidence always proves accuracy",
+              "Open questions can reduce distortion",
+              "Uncertain witnesses never remember events",
+              "Interview training removes every error"
+            ],
+            "answer": "Open questions can reduce distortion",
+            "explain": "The text says they reduce but do not eliminate distortion."
+          },
+          {
+            "type": "summary",
+            "prompt": "Recall may combine stored fragments with present ______.",
+            "answer": "expectations",
+            "accept": [
+              "expectations"
+            ],
+            "explain": "The missing word is taken from the passage."
+          },
+          {
+            "type": "matching-heading",
+            "prompt": "Best heading for the passage",
+            "options": [
+              "Why memory can change during recall",
+              "How cameras improve court evidence",
+              "The history of interview training",
+              "Why confident people never make mistakes"
+            ],
+            "answer": "Why memory can change during recall",
+            "explain": "It captures reconstruction, misleading questions, and distortion."
+          }
+        ]
+      },
+      {
+        "id": "ielts-listening-campus",
+        "title": "Listening · Campus Orientation",
+        "skill": "Listening",
+        "level": "Band 4–5",
+        "time": 10,
+        "transcript": "Welcome to Westbridge College. The library opens at eight thirty on weekdays and closes at nine in the evening. New students can collect their ID cards from Room 14, not the main reception. The sports centre is free during the first week, but after that a monthly membership is required.",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "When does the library open on weekdays?",
+            "options": [
+              "8:00",
+              "8:30",
+              "9:00",
+              "9:30"
+            ],
+            "answer": "8:30",
+            "explain": "The speaker says eight thirty."
+          },
+          {
+            "type": "completion",
+            "prompt": "Students collect ID cards from Room ____.",
+            "answer": "14",
+            "accept": [
+              "14",
+              "fourteen"
+            ],
+            "explain": "The transcript says Room 14."
+          },
+          {
+            "type": "tfng",
+            "prompt": "ID cards are collected at the main reception.",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ],
+            "answer": "FALSE",
+            "explain": "The speaker explicitly says not the main reception."
+          },
+          {
+            "type": "mcq",
+            "prompt": "What happens after the first week?",
+            "options": [
+              "The sports centre closes",
+              "A membership is required",
+              "The library becomes free",
+              "Students receive new ID cards"
+            ],
+            "answer": "A membership is required",
+            "explain": "A monthly membership is required after the free week."
+          }
+        ]
+      },
+      {
+        "id": "ielts-writing-education",
+        "title": "Writing Task 2 · Education",
+        "skill": "Writing",
+        "level": "Band 6–7",
+        "time": 40,
+        "prompt": "Some people believe schools should teach practical financial skills, while others think traditional academic subjects should remain the priority. Discuss both views and give your opinion.",
+        "rubric": [
+          "Task response",
+          "Coherence and cohesion",
+          "Lexical resource",
+          "Grammar range and accuracy"
+        ],
+        "questions": [
+          {
+            "type": "essay",
+            "prompt": "Write at least 250 words. Include an introduction, both views, your opinion, and a conclusion.",
+            "minWords": 250
+          }
+        ]
+      },
+      {
+        "id": "ielts-speaking-city",
+        "title": "Speaking Test · Your City",
+        "skill": "Speaking",
+        "level": "Band 5–6",
+        "time": 12,
+        "questions": [
+          {
+            "type": "speaking",
+            "prompt": "Part 1: What do you like most about the place where you live?",
+            "prep": 10,
+            "speak": 45
+          },
+          {
+            "type": "speaking",
+            "prompt": "Part 2: Describe a public place in your city that you enjoy visiting.",
+            "prep": 60,
+            "speak": 120
+          },
+          {
+            "type": "speaking",
+            "prompt": "Part 3: How can city planners make public spaces more useful?",
+            "prep": 20,
+            "speak": 90
+          }
+        ]
+      },
+      {
+        "id": "ielts-general-notices",
+        "level": "Band 4–5",
+        "skill": "Reading",
+        "title": "General Training · Community Notices",
+        "time": 15,
+        "passage": "NOTICE A — The Westbridge Library will close at 6 p.m. on Friday for electrical maintenance. Books due that day may be returned through the external slot.\n\nNOTICE B — Weekend photography workshops are open to residents aged 16 and over. Participants must bring their own camera, but no previous experience is required.\n\nNOTICE C — The Greenway Bus will use a temporary stop outside the sports centre from 4–12 September because of road repairs.",
+        "questions": [
+          {
+            "type": "matching",
+            "prompt": "Which notice explains a change of location?",
+            "options": [
+              "Notice A",
+              "Notice B",
+              "Notice C"
+            ],
+            "answer": "Notice C",
+            "evidence": "Notice C says the bus will use a temporary stop.",
+            "explain": "Temporary stop is a change of location."
+          },
+          {
+            "type": "tfng",
+            "prompt": "Library staff will accept returned books inside the building after 6 p.m.",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ],
+            "answer": "FALSE",
+            "evidence": "The building closes at 6 p.m.; books must use the external slot.",
+            "explain": "The statement contradicts the return instruction."
+          },
+          {
+            "type": "completion",
+            "prompt": "Workshop participants must provide their own ____.",
+            "answer": "camera",
+            "accept": [
+              "a camera"
+            ],
+            "evidence": "Participants must bring their own camera.",
+            "explain": "Use one word from the notice."
+          },
+          {
+            "type": "tfng",
+            "prompt": "The photography workshop is suitable only for experienced photographers.",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ],
+            "answer": "FALSE",
+            "evidence": "No previous experience is required.",
+            "explain": "Only experienced contradicts no previous experience required."
+          }
+        ]
+      },
+      {
+        "id": "ielts-listening-rental",
+        "level": "Band 5–6",
+        "skill": "Listening",
+        "title": "Listening · Student Accommodation",
+        "time": 12,
+        "transcript": "Agent: The room on King Street is available from the twelfth of August. The rent is one hundred and eighty pounds per week, including water but not electricity. It takes about fifteen minutes to walk to the university. A deposit equal to two weeks’ rent is required.",
+        "questions": [
+          {
+            "type": "completion",
+            "prompt": "The room is available from 12 ____.",
+            "answer": "August",
+            "explain": "Listen for the month after the date."
+          },
+          {
+            "type": "completion",
+            "prompt": "Weekly rent: £____.",
+            "answer": "180",
+            "accept": [
+              "one hundred and eighty"
+            ],
+            "explain": "Write the number only."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which bill is NOT included?",
+            "options": [
+              "Water",
+              "Electricity",
+              "Internet"
+            ],
+            "answer": "Electricity",
+            "explain": "The agent says water is included but electricity is not."
+          },
+          {
+            "type": "completion",
+            "prompt": "Walking time to the university: ____ minutes.",
+            "answer": "15",
+            "accept": [
+              "fifteen"
+            ],
+            "explain": "The transcript states fifteen minutes."
+          }
+        ]
+      },
+      {
+        "id": "ielts-reading-energy",
+        "level": "Band 6–7",
+        "skill": "Reading",
+        "title": "Academic Reading · Energy Storage",
+        "time": 20,
+        "passage": "As electricity grids use more solar and wind power, storing energy becomes increasingly important. Lithium-ion batteries respond quickly and are suitable for short periods, but their cost can rise when very large systems are required. Pumped-storage hydropower can hold far more energy by moving water between reservoirs, although it depends on suitable geography. Researchers are also testing thermal storage, in which excess electricity heats materials that release energy later. No single technology is expected to meet every storage need; future grids will probably combine several methods.",
+        "questions": [
+          {
+            "type": "matching-heading",
+            "prompt": "Choose the best heading.",
+            "options": [
+              "Why renewable energy is declining",
+              "Different solutions for storing electricity",
+              "The invention of lithium batteries"
+            ],
+            "answer": "Different solutions for storing electricity",
+            "explain": "The passage compares batteries, pumped storage, and thermal storage."
+          },
+          {
+            "type": "tfng",
+            "prompt": "Lithium-ion batteries are described as slow to react.",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ],
+            "answer": "FALSE",
+            "evidence": "They respond quickly.",
+            "explain": "Slow contradicts quickly."
+          },
+          {
+            "type": "tfng",
+            "prompt": "Pumped-storage systems can be built in every region.",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ],
+            "answer": "FALSE",
+            "evidence": "They depend on suitable geography.",
+            "explain": "Dependence on geography means not everywhere."
+          },
+          {
+            "type": "completion",
+            "prompt": "Thermal storage keeps energy by heating ____.",
+            "answer": "materials",
+            "evidence": "Excess electricity heats materials.",
+            "explain": "Use one word from the passage."
+          },
+          {
+            "type": "mcq",
+            "prompt": "What does the writer predict?",
+            "options": [
+              "One technology will replace all others",
+              "Grids will use a combination of methods",
+              "Storage will no longer be necessary"
+            ],
+            "answer": "Grids will use a combination of methods",
+            "explain": "The final sentence predicts several methods will be combined."
+          }
+        ]
+      },
+      {
+        "id": "ielts-writing-task1-process",
+        "level": "Band 5–6",
+        "skill": "Writing",
+        "title": "Writing Task 1 · Process Diagram",
+        "time": 20,
+        "questions": [
+          {
+            "type": "essay",
+            "prompt": "Describe a process in which used glass bottles are collected, sorted by colour, washed, crushed, melted, formed into new bottles, inspected, and delivered to shops. Summarise the stages in at least 150 words.",
+            "minWords": 150,
+            "explain": "Include an overview and organise the stages in a logical sequence."
+          }
+        ]
+      }
+    ]
+  },
+  "mandarin": {
+    "name": "HSK Mandarin",
+    "levels": [
+      "HSK 1",
+      "HSK 2",
+      "HSK 3",
+      "HSK 4",
+      "HSK 5",
+      "HSK 6"
+    ],
+    "sets": [
+      {
+        "id": "hsk1-foundation",
+        "title": "HSK 1 · 基础词汇",
+        "skill": "Vocabulary",
+        "level": "HSK 1",
+        "time": 10,
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "“学生” 的意思是什么？",
+            "options": [
+              "student",
+              "teacher",
+              "doctor",
+              "friend"
+            ],
+            "answer": "student",
+            "explain": "学生 xuésheng = student."
+          },
+          {
+            "type": "pinyin",
+            "prompt": "选择 “你好” 的正确拼音。",
+            "options": [
+              "nǐ hǎo",
+              "ní hào",
+              "nī hāo",
+              "nǐ hào"
+            ],
+            "answer": "nǐ hǎo",
+            "explain": "你 nǐ tone 3, 好 hǎo tone 3."
+          },
+          {
+            "type": "word-order",
+            "prompt": "Susun menjadi kalimat benar: 我 / 是 / 学生",
+            "answer": "我是学生",
+            "accept": [
+              "我是学生",
+              "我 是 学生"
+            ],
+            "explain": "Subject + 是 + noun."
+          },
+          {
+            "type": "completion",
+            "prompt": "我___中国人。",
+            "options": [
+              "是",
+              "有",
+              "在",
+              "看"
+            ],
+            "answer": "是",
+            "explain": "是 links the subject with a noun."
+          },
+          {
+            "type": "translation",
+            "prompt": "Terjemahkan ke Mandarin: “I like Chinese.”",
+            "answer": "我喜欢中文",
+            "accept": [
+              "我喜欢中文",
+              "我喜欢汉语"
+            ],
+            "explain": "我 + 喜欢 + 中文/汉语."
+          }
+        ]
+      },
+      {
+        "id": "hsk3-reading-school",
+        "title": "HSK 3 · 阅读理解",
+        "skill": "Reading",
+        "level": "HSK 3",
+        "time": 15,
+        "passage": "小王每天坐公共汽车去学校。他家离学校不太远，但是早上路上常常很忙。今天他起晚了，所以决定骑自行车。虽然天气有点儿冷，但是他八点以前就到了学校。",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "小王平时怎么去学校？",
+            "options": [
+              "坐公共汽车",
+              "骑自行车",
+              "走路",
+              "坐地铁"
+            ],
+            "answer": "坐公共汽车",
+            "explain": "第一句说明他每天坐公共汽车。"
+          },
+          {
+            "type": "tfng",
+            "prompt": "小王家离学校很远。",
+            "options": [
+              "对",
+              "错",
+              "没提到"
+            ],
+            "answer": "错",
+            "explain": "文章说“不太远”。"
+          },
+          {
+            "type": "mcq",
+            "prompt": "今天他为什么骑自行车？",
+            "options": [
+              "因为起晚了",
+              "因为下雨了",
+              "因为公共汽车坏了",
+              "因为学校很近"
+            ],
+            "answer": "因为起晚了",
+            "explain": "文章明确说明原因。"
+          },
+          {
+            "type": "completion",
+            "prompt": "他在___以前到学校。",
+            "answer": "八点",
+            "accept": [
+              "八点",
+              "8点"
+            ],
+            "explain": "文章说八点以前。"
+          }
+        ]
+      },
+      {
+        "id": "hsk4-listening-travel",
+        "title": "HSK 4 · 听力模拟",
+        "skill": "Listening",
+        "level": "HSK 4",
+        "time": 12,
+        "transcript": "女：你明天几点的火车？男：上午十点，但是我想九点以前到火车站。女：那你最好八点半出门，早上可能堵车。男：好，我已经在手机上买好票了。",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "男的火车几点开？",
+            "options": [
+              "八点半",
+              "九点",
+              "十点",
+              "十一点"
+            ],
+            "answer": "十点",
+            "explain": "男的说“上午十点”。"
+          },
+          {
+            "type": "mcq",
+            "prompt": "女的为什么建议他早点出门？",
+            "options": [
+              "可能堵车",
+              "没有买票",
+              "火车站很远",
+              "天气不好"
+            ],
+            "answer": "可能堵车",
+            "explain": "女的说早上可能堵车。"
+          },
+          {
+            "type": "tfng",
+            "prompt": "男的还没有买票。",
+            "options": [
+              "对",
+              "错",
+              "没提到"
+            ],
+            "answer": "错",
+            "explain": "他说已经在手机上买好票了。"
+          }
+        ]
+      },
+      {
+        "id": "hsk5-grammar",
+        "title": "HSK 5 · 语法与排序",
+        "skill": "Grammar",
+        "level": "HSK 5",
+        "time": 15,
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "不但他会说中文，___会写汉字。",
+            "options": [
+              "而且",
+              "但是",
+              "所以",
+              "或者"
+            ],
+            "answer": "而且",
+            "explain": "不但……而且…… is the fixed pair."
+          },
+          {
+            "type": "word-order",
+            "prompt": "Susun: 这个问题 / 我们 / 应该 / 认真地 / 考虑",
+            "answer": "我们应该认真地考虑这个问题",
+            "accept": [
+              "我们应该认真地考虑这个问题。"
+            ],
+            "explain": "Subject + modal + adverb + verb + object."
+          },
+          {
+            "type": "error-correction",
+            "prompt": "Perbaiki: 虽然下雨，所以我们还是去公园了。",
+            "answer": "虽然下雨，但是我们还是去公园了",
+            "accept": [
+              "虽然下雨，但是我们还是去公园了。"
+            ],
+            "explain": "虽然 pairs with 但是, not 所以."
+          }
+        ]
+      },
+      {
+        "id": "hsk6-writing",
+        "title": "HSK 6 · 写作表达",
+        "skill": "Writing",
+        "level": "HSK 6",
+        "time": 35,
+        "questions": [
+          {
+            "type": "essay",
+            "prompt": "请写一篇短文：科技如何改变年轻人的学习方式？请举例并说明你的看法。",
+            "minWords": 180
+          }
+        ]
+      },
+      {
+        "id": "hsk2-daily-listening",
+        "level": "HSK 2",
+        "skill": "Listening",
+        "title": "HSK 2 · 日常安排",
+        "time": 10,
+        "transcript": "女：你明天几点去学校？ 男：我八点上课，所以七点半出门。下课以后，我要去图书馆借两本书。",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "男的几点出门？",
+            "options": [
+              "七点",
+              "七点半",
+              "八点"
+            ],
+            "answer": "七点半",
+            "explain": "他说“七点半出门”。"
+          },
+          {
+            "type": "tfng",
+            "prompt": "男的八点开始上课。",
+            "options": [
+              "对",
+              "错",
+              "没提到"
+            ],
+            "answer": "对",
+            "explain": "录音中明确说“我八点上课”。"
+          },
+          {
+            "type": "mcq",
+            "prompt": "下课以后，他要去哪儿？",
+            "options": [
+              "商店",
+              "医院",
+              "图书馆"
+            ],
+            "answer": "图书馆",
+            "explain": "他要去图书馆借书。"
+          }
+        ]
+      },
+      {
+        "id": "hsk4-reading-environment",
+        "level": "HSK 4",
+        "skill": "Reading",
+        "title": "HSK 4 · 环保习惯",
+        "time": 15,
+        "passage": "很多人觉得保护环境是一件很大的事，其实生活中的小选择也很重要。例如，出门时带自己的水杯，买东西时少用塑料袋，距离不远的时候走路或者骑自行车。这些习惯看起来很简单，但是如果更多人长期坚持，就能减少很多垃圾和能源浪费。",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "这篇文章主要想说明什么？",
+            "options": [
+              "保护环境需要很多钱",
+              "小习惯也能帮助环保",
+              "骑自行车一定比走路快"
+            ],
+            "answer": "小习惯也能帮助环保",
+            "explain": "文章的中心是生活中的小选择也很重要。"
+          },
+          {
+            "type": "tfng",
+            "prompt": "文章建议人们出门带自己的水杯。",
+            "options": [
+              "对",
+              "错",
+              "没提到"
+            ],
+            "answer": "对",
+            "explain": "第一句例子明确提到带自己的水杯。"
+          },
+          {
+            "type": "tfng",
+            "prompt": "文章说只有政府才能减少能源浪费。",
+            "options": [
+              "对",
+              "错",
+              "没提到"
+            ],
+            "answer": "错",
+            "explain": "文章强调更多人的日常习惯可以减少浪费。"
+          },
+          {
+            "type": "completion",
+            "prompt": "如果更多人长期____这些习惯，就能减少浪费。",
+            "answer": "坚持",
+            "explain": "原文是“长期坚持”。"
+          }
+        ]
+      },
+      {
+        "id": "hsk5-connectors",
+        "level": "HSK 5",
+        "skill": "Grammar",
+        "title": "HSK 5 · 关联词与语序",
+        "time": 15,
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "____天气很冷，他还是每天早上跑步。",
+            "options": [
+              "虽然",
+              "因为",
+              "只要"
+            ],
+            "answer": "虽然",
+            "explain": "“虽然……还是……”表示让步关系。"
+          },
+          {
+            "type": "word-order",
+            "prompt": "把词语排列成正确句子：提高 / 只有 / 坚持练习 / 才能 / 口语",
+            "answer": "只有坚持练习才能提高口语",
+            "accept": [
+              "只有坚持练习，才能提高口语。"
+            ],
+            "explain": "固定结构：只有……才……。"
+          },
+          {
+            "type": "error-correction",
+            "prompt": "改正句子：因为他很努力，但是考试进步了。",
+            "answer": "因为他很努力，所以考试进步了",
+            "accept": [
+              "因为他很努力，所以他的考试成绩进步了。"
+            ],
+            "explain": "因为与所以搭配，不能与但是搭配。"
+          }
+        ]
+      },
+      {
+        "id": "hsk6-summary-writing",
+        "level": "HSK 6",
+        "skill": "Writing",
+        "title": "HSK 6 · 阅读后缩写",
+        "time": 35,
+        "passage": "一位年轻人每天经过一家小书店，却从来没有进去过。一天突然下雨，他为了避雨走进店里，发现店主正在免费教几个孩子读书。从那以后，他每周都来帮助孩子，还把自己的旧书送给他们。几年后，其中一个孩子考上了大学，并回到书店感谢他。年轻人这才明白，一个很小的决定也可能改变别人的人生。",
+        "questions": [
+          {
+            "type": "essay",
+            "prompt": "阅读短文后，用80字左右概括主要内容。不要加入个人观点。",
+            "minWords": 60,
+            "explain": "保留人物、事件、结果和中心意义，删除不必要的细节。"
+          }
+        ]
+      }
+    ]
+  },
+  "japanese": {
+    "name": "JLPT Japanese",
+    "levels": [
+      "JLPT N5",
+      "JLPT N4",
+      "JLPT N3",
+      "JLPT N2",
+      "JLPT N1"
+    ],
+    "sets": [
+      {
+        "id": "jlpt-n5-basic",
+        "title": "JLPT N5 · 文字・語彙",
+        "skill": "Vocabulary",
+        "level": "JLPT N5",
+        "time": 10,
+        "questions": [
+          {
+            "type": "kanji-reading",
+            "prompt": "「学校」の読み方はどれですか。",
+            "options": [
+              "がっこう",
+              "がくこう",
+              "がっこ",
+              "がこう"
+            ],
+            "answer": "がっこう",
+            "explain": "学校 = がっこう."
+          },
+          {
+            "type": "mcq",
+            "prompt": "「大きい」の反対はどれですか。",
+            "options": [
+              "小さい",
+              "高い",
+              "新しい",
+              "長い"
+            ],
+            "answer": "小さい",
+            "explain": "大きい = big; 小さい = small."
+          },
+          {
+            "type": "completion",
+            "prompt": "わたし___学生です。",
+            "options": [
+              "は",
+              "を",
+              "に",
+              "で"
+            ],
+            "answer": "は",
+            "explain": "は marks the topic."
+          },
+          {
+            "type": "word-order",
+            "prompt": "Susun: まいにち / 日本語を / 勉強します / わたしは",
+            "answer": "わたしはまいにち日本語を勉強します",
+            "accept": [
+              "わたしは毎日日本語を勉強します"
+            ],
+            "explain": "Topic + time + object + verb."
+          }
+        ]
+      },
+      {
+        "id": "jlpt-n3-reading",
+        "title": "JLPT N3 · 読解",
+        "skill": "Reading",
+        "level": "JLPT N3",
+        "time": 18,
+        "passage": "最近、駅の近くに新しい図書館ができました。この図書館は夜九時まで開いているので、仕事や学校のあとでも利用できます。また、本を借りるだけでなく、静かな部屋で勉強したり、無料の会話教室に参加したりすることもできます。",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "この図書館の便利な点は何ですか。",
+            "options": [
+              "夜まで利用できる",
+              "駅から遠い",
+              "本を買える",
+              "朝だけ開いている"
+            ],
+            "answer": "夜まで利用できる",
+            "explain": "夜九時まで開いています。"
+          },
+          {
+            "type": "tfng",
+            "prompt": "図書館では本を借りることしかできません。",
+            "options": [
+              "正しい",
+              "正しくない",
+              "本文にない"
+            ],
+            "answer": "正しくない",
+            "explain": "勉強や会話教室もできます。"
+          },
+          {
+            "type": "mcq",
+            "prompt": "無料で参加できるものは何ですか。",
+            "options": [
+              "会話教室",
+              "料理教室",
+              "映画会",
+              "旅行"
+            ],
+            "answer": "会話教室",
+            "explain": "無料の会話教室と書かれています。"
+          }
+        ]
+      },
+      {
+        "id": "jlpt-n2-grammar",
+        "title": "JLPT N2 · 文法",
+        "skill": "Grammar",
+        "level": "JLPT N2",
+        "time": 15,
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "彼は忙しい___、毎日家族に電話している。",
+            "options": [
+              "にもかかわらず",
+              "にしたがって",
+              "に対して",
+              "において"
+            ],
+            "answer": "にもかかわらず",
+            "explain": "Means “despite being busy”."
+          },
+          {
+            "type": "sentence-star",
+            "prompt": "★ に入るものはどれですか。彼は / 日本に / ★ / 日本語が上手になった。",
+            "options": [
+              "住んでいるうちに",
+              "住んだからには",
+              "住むどころか",
+              "住んだものの"
+            ],
+            "answer": "住んでいるうちに",
+            "explain": "うちに expresses change during a period."
+          },
+          {
+            "type": "error-correction",
+            "prompt": "Perbaiki kalimat tidak natural: 雨が降ったおかげで、試合が中止になって残念だ。",
+            "answer": "雨が降ったせいで、試合が中止になって残念だ",
+            "accept": [
+              "雨が降ったせいで試合が中止になって残念だ。"
+            ],
+            "explain": "おかげで is generally positive; せいで fits a negative result."
+          }
+        ]
+      },
+      {
+        "id": "jlpt-n4-listening",
+        "title": "JLPT N4 · 聴解シミュレーション",
+        "skill": "Listening",
+        "level": "JLPT N4",
+        "time": 10,
+        "transcript": "女：田中さん、会議は三時からですよね。男：いいえ、今日は三時半からです。会議室も二階ではなく、四階になりました。女：わかりました。資料を持って四階へ行きます。",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "会議は何時からですか。",
+            "options": [
+              "二時",
+              "三時",
+              "三時半",
+              "四時"
+            ],
+            "answer": "三時半",
+            "explain": "男の人が三時半と言いました。"
+          },
+          {
+            "type": "mcq",
+            "prompt": "会議室はどこですか。",
+            "options": [
+              "一階",
+              "二階",
+              "三階",
+              "四階"
+            ],
+            "answer": "四階",
+            "explain": "四階に変更されました。"
+          },
+          {
+            "type": "tfng",
+            "prompt": "女の人は資料を持って行きます。",
+            "options": [
+              "正しい",
+              "正しくない",
+              "本文にない"
+            ],
+            "answer": "正しい",
+            "explain": "最後にそう言っています。"
+          }
+        ]
+      },
+      {
+        "id": "jlpt-n1-writing",
+        "title": "JLPT N1 · 要約・意見",
+        "skill": "Writing",
+        "level": "JLPT N1",
+        "time": 35,
+        "questions": [
+          {
+            "type": "essay",
+            "prompt": "「便利さと個人情報の保護」について、利点と問題点を述べ、自分の意見を書いてください。",
+            "minWords": 400
+          }
+        ]
+      },
+      {
+        "id": "jlpt-n5-listening-station",
+        "level": "JLPT N5",
+        "skill": "Listening",
+        "title": "JLPT N5 · 駅で",
+        "time": 10,
+        "transcript": "女：すみません、東京行きの電車は何番線ですか。 男：三番線です。でも、次の電車は十分後です。",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "東京行きの電車は何番線ですか。",
+            "options": [
+              "一番線",
+              "三番線",
+              "十分線"
+            ],
+            "answer": "三番線",
+            "explain": "男の人は「三番線です」と言いました。"
+          },
+          {
+            "type": "mcq",
+            "prompt": "次の電車はいつ来ますか。",
+            "options": [
+              "三分後",
+              "十分後",
+              "今日の午後"
+            ],
+            "answer": "十分後",
+            "explain": "「次の電車は十分後です」。"
+          }
+        ]
+      },
+      {
+        "id": "jlpt-n4-reading-library",
+        "level": "JLPT N4",
+        "skill": "Reading",
+        "title": "JLPT N4 · 図書館のお知らせ",
+        "time": 12,
+        "passage": "市立図書館は来週の月曜日、コンピューターの点検のため休みます。返す本は入口の横にある箱に入れてください。火曜日からは普通どおり午前九時に開きます。",
+        "questions": [
+          {
+            "type": "tfng",
+            "prompt": "図書館は来週の月曜日に開いています。",
+            "options": [
+              "正しい",
+              "正しくない",
+              "本文にない"
+            ],
+            "answer": "正しくない",
+            "explain": "月曜日は点検のため休みです。"
+          },
+          {
+            "type": "mcq",
+            "prompt": "休みの日に本を返す人はどうしますか。",
+            "options": [
+              "火曜日まで持っています",
+              "入口の横の箱に入れます",
+              "コンピューターで返します"
+            ],
+            "answer": "入口の横の箱に入れます",
+            "explain": "本文に返却箱の案内があります。"
+          },
+          {
+            "type": "completion",
+            "prompt": "火曜日は午前____時に開きます。",
+            "answer": "九",
+            "accept": [
+              "9"
+            ],
+            "explain": "普通どおり午前九時に開きます。"
+          }
+        ]
+      },
+      {
+        "id": "jlpt-n3-grammar-context",
+        "level": "JLPT N3",
+        "skill": "Grammar",
+        "title": "JLPT N3 · 文脈の文法",
+        "time": 15,
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "雨が降っている____、試合は予定どおり行われます。",
+            "options": [
+              "にもかかわらず",
+              "ために",
+              "ばかりに"
+            ],
+            "answer": "にもかかわらず",
+            "explain": "逆接で「雨なのに」という意味です。"
+          },
+          {
+            "type": "sentence-star",
+            "prompt": "正しい順番：日本語が / ように / 毎日 / 上手になる / 練習しています",
+            "answer": "日本語が上手になるように毎日練習しています",
+            "explain": "目的を表す「〜ように」の後に行動が続きます。"
+          },
+          {
+            "type": "error-correction",
+            "prompt": "直してください：私は日本へ行ったことをあります。",
+            "answer": "私は日本へ行ったことがあります",
+            "explain": "経験の表現は「〜たことがあります」です。"
+          }
+        ]
+      },
+      {
+        "id": "jlpt-n2-reading-workstyle",
+        "level": "JLPT N2",
+        "skill": "Reading",
+        "title": "JLPT N2 · 働き方の変化",
+        "time": 20,
+        "passage": "在宅勤務が広がったことで、通勤時間を減らせる人が増えた。一方で、仕事と私生活の境界が曖昧になり、長時間働いてしまうという問題もある。大切なのは、働く場所を自由にすることだけではなく、勤務時間や連絡のルールを明確にすることだ。",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "筆者が最も言いたいことは何ですか。",
+            "options": [
+              "在宅勤務をすべてやめるべきだ",
+              "場所の自由だけでなくルールも必要だ",
+              "通勤時間を長くするべきだ"
+            ],
+            "answer": "場所の自由だけでなくルールも必要だ",
+            "explain": "最後の文が筆者の主張です。"
+          },
+          {
+            "type": "tfng",
+            "prompt": "在宅勤務には問題が全くない。",
+            "options": [
+              "正しい",
+              "正しくない",
+              "本文にない"
+            ],
+            "answer": "正しくない",
+            "explain": "長時間働いてしまう問題が述べられています。"
+          },
+          {
+            "type": "completion",
+            "prompt": "仕事と私生活の____が曖昧になることがある。",
+            "answer": "境界",
+            "explain": "本文と同じ語です。"
+          }
+        ]
+      }
+    ]
+  },
+  "german": {
+    "name": "German CEFR / Goethe",
+    "levels": [
+      "CEFR A1",
+      "CEFR A2",
+      "CEFR B1",
+      "CEFR B2",
+      "CEFR C1",
+      "CEFR C2"
+    ],
+    "sets": [
+      {
+        "id": "de-a1-basic",
+        "title": "Deutsch A1 · Wortschatz & Grammatik",
+        "skill": "Vocabulary",
+        "level": "CEFR A1",
+        "time": 10,
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "Was bedeutet „der Bahnhof“?",
+            "options": [
+              "train station",
+              "hospital",
+              "school",
+              "market"
+            ],
+            "answer": "train station",
+            "explain": "der Bahnhof = train station."
+          },
+          {
+            "type": "completion",
+            "prompt": "Ich ___ aus Indonesien.",
+            "options": [
+              "komme",
+              "kommt",
+              "kommen",
+              "kommst"
+            ],
+            "answer": "komme",
+            "explain": "Ich requires komme."
+          },
+          {
+            "type": "article",
+            "prompt": "___ Buch ist interessant.",
+            "options": [
+              "Das",
+              "Der",
+              "Die",
+              "Den"
+            ],
+            "answer": "Das",
+            "explain": "Buch is neuter: das Buch."
+          },
+          {
+            "type": "word-order",
+            "prompt": "Susun: heute / ich / Deutsch / lerne",
+            "answer": "Ich lerne heute Deutsch",
+            "accept": [
+              "Ich lerne heute Deutsch."
+            ],
+            "explain": "Finite verb is in position 2."
+          }
+        ]
+      },
+      {
+        "id": "de-b1-reading",
+        "title": "Deutsch B1 · Lesen",
+        "skill": "Reading",
+        "level": "CEFR B1",
+        "time": 18,
+        "passage": "Immer mehr Städte bauen sichere Fahrradwege. Dadurch sollen weniger Menschen das Auto benutzen und die Luftqualität soll besser werden. Einige Geschäftsleute befürchten jedoch, dass weniger Parkplätze ihre Kundschaft abschrecken könnten. Untersuchungen aus mehreren Städten zeigen, dass Radfahrer lokale Geschäfte häufig besuchen, aber dabei kleinere Beträge pro Einkauf ausgeben.",
+        "questions": [
+          {
+            "type": "tfng",
+            "prompt": "Die neuen Fahrradwege sollen die Luftqualität verbessern.",
+            "options": [
+              "RICHTIG",
+              "FALSCH",
+              "NICHT IM TEXT"
+            ],
+            "answer": "RICHTIG",
+            "explain": "Das wird direkt genannt."
+          },
+          {
+            "type": "tfng",
+            "prompt": "Alle Geschäftsleute unterstützen weniger Parkplätze.",
+            "options": [
+              "RICHTIG",
+              "FALSCH",
+              "NICHT IM TEXT"
+            ],
+            "answer": "FALSCH",
+            "explain": "Einige befürchten negative Folgen."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Was zeigen die Untersuchungen?",
+            "options": [
+              "Radfahrer besuchen lokale Geschäfte oft",
+              "Radfahrer kaufen nur online",
+              "Autofahrer geben immer weniger aus",
+              "Alle Parkplätze wurden entfernt"
+            ],
+            "answer": "Radfahrer besuchen lokale Geschäfte oft",
+            "explain": "Das steht im letzten Satz."
+          },
+          {
+            "type": "completion",
+            "prompt": "Radfahrer geben pro Einkauf oft ___ Beträge aus.",
+            "answer": "kleinere",
+            "accept": [
+              "kleinere"
+            ],
+            "explain": "The passage says kleinere Beträge."
+          }
+        ]
+      },
+      {
+        "id": "de-b2-listening",
+        "title": "Deutsch B2 · Hörverstehen Simulation",
+        "skill": "Listening",
+        "level": "CEFR B2",
+        "time": 12,
+        "transcript": "Moderatorin: Ab nächstem Monat führt das Unternehmen zwei Tage Homeoffice pro Woche ein. Die Teilnahme ist freiwillig. Teams müssen jedoch sicherstellen, dass montags mindestens die Hälfte der Mitarbeitenden im Büro ist. Eine erste Auswertung findet nach sechs Monaten statt.",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "Wie viele Homeoffice-Tage sind vorgesehen?",
+            "options": [
+              "einer",
+              "zwei",
+              "drei",
+              "fünf"
+            ],
+            "answer": "zwei",
+            "explain": "Zwei Tage pro Woche."
+          },
+          {
+            "type": "tfng",
+            "prompt": "Alle Mitarbeitenden müssen Homeoffice machen.",
+            "options": [
+              "RICHTIG",
+              "FALSCH",
+              "NICHT IM TEXT"
+            ],
+            "answer": "FALSCH",
+            "explain": "Die Teilnahme ist freiwillig."
+          },
+          {
+            "type": "completion",
+            "prompt": "Die erste Auswertung erfolgt nach ___ Monaten.",
+            "answer": "sechs",
+            "accept": [
+              "sechs",
+              "6"
+            ],
+            "explain": "Nach sechs Monaten."
+          }
+        ]
+      },
+      {
+        "id": "de-c1-grammar",
+        "title": "Deutsch C1 · Grammatik & Stil",
+        "skill": "Grammar",
+        "level": "CEFR C1",
+        "time": 18,
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "Wählen Sie die passende Konjunktion: ___ die Maßnahme teuer ist, könnte sie langfristig Kosten senken.",
+            "options": [
+              "Obwohl",
+              "Damit",
+              "Sobald",
+              "Indem"
+            ],
+            "answer": "Obwohl",
+            "explain": "Obwohl introduces a concession."
+          },
+          {
+            "type": "error-correction",
+            "prompt": "Verbessern Sie: Wegen dem schlechten Wetter wurde die Veranstaltung abgesagt.",
+            "answer": "Wegen des schlechten Wetters wurde die Veranstaltung abgesagt",
+            "accept": [
+              "Wegen des schlechten Wetters wurde die Veranstaltung abgesagt."
+            ],
+            "explain": "Formal German uses genitive after wegen."
+          },
+          {
+            "type": "transformation",
+            "prompt": "Formulieren Sie im Passiv: Die Experten prüfen den Vorschlag.",
+            "answer": "Der Vorschlag wird von den Experten geprüft",
+            "accept": [
+              "Der Vorschlag wird von Experten geprüft.",
+              "Der Vorschlag wird von den Experten geprüft."
+            ],
+            "explain": "Object becomes subject; werden + Partizip II."
+          }
+        ]
+      },
+      {
+        "id": "de-b2-writing",
+        "title": "Deutsch B2 · Schreiben",
+        "skill": "Writing",
+        "level": "CEFR B2",
+        "time": 35,
+        "questions": [
+          {
+            "type": "essay",
+            "prompt": "Sie schreiben einen Forumsbeitrag zum Thema: „Sollten öffentliche Verkehrsmittel für Schülerinnen und Schüler kostenlos sein?“ Begründen Sie Ihre Meinung und nennen Sie Vor- und Nachteile.",
+            "minWords": 180
+          }
+        ]
+      },
+      {
+        "id": "de-a2-listening-appointment",
+        "level": "CEFR A2",
+        "skill": "Listening",
+        "title": "Deutsch A2 · Termin ändern",
+        "time": 10,
+        "transcript": "Guten Tag, hier ist die Praxis Dr. Klein. Ihr Termin am Dienstag um zehn Uhr muss leider verschoben werden. Wir können Ihnen Mittwoch um vierzehn Uhr oder Freitag um neun Uhr anbieten. Bitte rufen Sie uns zurück.",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "Warum ruft die Praxis an?",
+            "options": [
+              "Der Arzt ist neu",
+              "Der Termin muss verschoben werden",
+              "Die Rechnung ist falsch"
+            ],
+            "answer": "Der Termin muss verschoben werden",
+            "explain": "Die Praxis sagt ausdrücklich, dass der Termin verschoben werden muss."
+          },
+          {
+            "type": "completion",
+            "prompt": "Ein neuer Termin ist am Mittwoch um ____ Uhr möglich.",
+            "answer": "14",
+            "accept": [
+              "vierzehn"
+            ],
+            "explain": "Mittwoch um vierzehn Uhr."
+          },
+          {
+            "type": "tfng",
+            "prompt": "Der Patient soll die Praxis zurückrufen.",
+            "options": [
+              "Richtig",
+              "Falsch",
+              "Nicht im Text"
+            ],
+            "answer": "Richtig",
+            "explain": "Am Ende heißt es: Bitte rufen Sie uns zurück."
+          }
+        ]
+      },
+      {
+        "id": "de-a2-reading-flat",
+        "level": "CEFR A2",
+        "skill": "Reading",
+        "title": "Deutsch A2 · Wohnungsanzeige",
+        "time": 12,
+        "passage": "Helles Zimmer in einer Dreier-WG, 15 Minuten mit dem Bus zur Universität. Die Miete beträgt 420 Euro inklusive Wasser und Internet. Strom wird extra bezahlt. Das Zimmer ist ab 1. Oktober frei. Nichtraucher werden bevorzugt.",
+        "questions": [
+          {
+            "type": "completion",
+            "prompt": "Die Fahrt zur Universität dauert ____ Minuten.",
+            "answer": "15",
+            "accept": [
+              "fünfzehn"
+            ],
+            "explain": "In der Anzeige steht 15 Minuten."
+          },
+          {
+            "type": "tfng",
+            "prompt": "Strom ist in der Miete enthalten.",
+            "options": [
+              "Richtig",
+              "Falsch",
+              "Nicht im Text"
+            ],
+            "answer": "Falsch",
+            "explain": "Strom wird extra bezahlt."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Ab wann ist das Zimmer frei?",
+            "options": [
+              "Ab September",
+              "Ab 1. Oktober",
+              "Ab Dezember"
+            ],
+            "answer": "Ab 1. Oktober",
+            "explain": "Das Datum steht direkt in der Anzeige."
+          }
+        ]
+      },
+      {
+        "id": "de-b1-email-writing",
+        "level": "CEFR B1",
+        "skill": "Writing",
+        "title": "Deutsch B1 · Formelle E-Mail",
+        "time": 30,
+        "questions": [
+          {
+            "type": "essay",
+            "prompt": "Sie haben an einem Sprachkurs teilgenommen, waren aber mit der Organisation unzufrieden. Schreiben Sie eine E-Mail an die Kursleitung. Beschreiben Sie den Kurs, nennen Sie zwei Probleme und schlagen Sie eine Lösung vor. Schreiben Sie mindestens 100 Wörter.",
+            "minWords": 100,
+            "explain": "Achten Sie auf Anrede, klare Absätze, höfliche Bitten und einen passenden Schluss."
+          }
+        ]
+      },
+      {
+        "id": "de-c2-style-reading",
+        "level": "CEFR C2",
+        "skill": "Reading",
+        "title": "Deutsch C2 · Stil und Argumentation",
+        "time": 22,
+        "passage": "Die Forderung nach ständiger Erreichbarkeit wird häufig als unvermeidliche Begleiterscheinung moderner Arbeit dargestellt. Diese Sichtweise übersieht jedoch, dass technische Möglichkeiten keine gesellschaftlichen Regeln ersetzen. Erst klare Erwartungen, verlässliche Ruhezeiten und eine Führungskultur, die Grenzen respektiert, verhindern, dass Flexibilität in dauerhafte Verfügbarkeit umschlägt.",
+        "questions": [
+          {
+            "type": "mcq",
+            "prompt": "Welche Position vertritt der Text?",
+            "options": [
+              "Technik macht Regeln überflüssig",
+              "Erreichbarkeit ist immer unvermeidlich",
+              "Flexibilität braucht klare Grenzen"
+            ],
+            "answer": "Flexibilität braucht klare Grenzen",
+            "explain": "Der Text fordert Erwartungen, Ruhezeiten und eine Kultur, die Grenzen respektiert."
+          },
+          {
+            "type": "tfng",
+            "prompt": "Der Autor hält technische Möglichkeiten allein für ausreichend.",
+            "options": [
+              "Richtig",
+              "Falsch",
+              "Nicht im Text"
+            ],
+            "answer": "Falsch",
+            "explain": "Der Text sagt ausdrücklich, technische Möglichkeiten ersetzen keine Regeln."
+          },
+          {
+            "type": "completion",
+            "prompt": "Ohne Grenzen kann Flexibilität in dauerhafte ____ umschlagen.",
+            "answer": "Verfügbarkeit",
+            "explain": "Das Wort steht im letzten Satz."
+          }
+        ]
+      }
+    ]
+  }
+}

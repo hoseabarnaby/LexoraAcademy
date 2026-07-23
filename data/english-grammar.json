@@ -1,0 +1,122 @@
+[
+  {
+    "id": "present-simple",
+    "level": "Beginner",
+    "topic": "Present Simple",
+    "simple": "Digunakan untuk kebiasaan, fakta umum, dan jadwal tetap.",
+    "formula": "Positive: S + V1\nNegative: S + do/does not + V1\nQuestion: Do/Does + S + V1?",
+    "usage": ["Habits", "Facts", "Schedules"],
+    "example": "I study English every day.",
+    "mistake": "She study English. ❌\nShe studies English. ✅",
+    "ieltsTip": "Berguna untuk Writing Task 2 ketika menjelaskan fakta umum atau opini umum.",
+    "exercise": [
+      {"q":"She ___ English every night.","options":["study","studies","studying"],"answer":"studies"},
+      {"q":"Do they ___ at school?","options":["learn","learns","learning"],"answer":"learn"}
+    ]
+  },
+  {
+    "id": "present-continuous",
+    "level": "Beginner",
+    "topic": "Present Continuous",
+    "simple": "Digunakan untuk kegiatan yang sedang terjadi sekarang atau rencana dekat.",
+    "formula": "Positive: S + am/is/are + V-ing\nNegative: S + am/is/are not + V-ing\nQuestion: Am/Is/Are + S + V-ing?",
+    "usage": ["Actions now", "Temporary situations", "Future arrangements"],
+    "example": "I am learning Mandarin now.",
+    "mistake": "I learning English. ❌\nI am learning English. ✅",
+    "ieltsTip": "Bisa dipakai di Speaking Part 1 saat menjelaskan aktivitas sekarang.",
+    "exercise": [
+      {"q":"I ___ a book now.","options":["read","am reading","reads"],"answer":"am reading"},
+      {"q":"They ___ football at the moment.","options":["are playing","plays","played"],"answer":"are playing"}
+    ]
+  },
+  {
+    "id": "past-simple",
+    "level": "Beginner",
+    "topic": "Past Simple",
+    "simple": "Digunakan untuk kejadian yang selesai di masa lalu.",
+    "formula": "Positive: S + V2\nNegative: S + did not + V1\nQuestion: Did + S + V1?",
+    "usage": ["Finished past actions", "Past habits", "Storytelling"],
+    "example": "I joined an English club last year.",
+    "mistake": "I did not studied. ❌\nI did not study. ✅",
+    "ieltsTip": "Sering muncul di Speaking Part 2 ketika menceritakan pengalaman.",
+    "exercise": [
+      {"q":"She ___ to school yesterday.","options":["go","went","gone"],"answer":"went"},
+      {"q":"Did you ___ the essay?","options":["write","wrote","written"],"answer":"write"}
+    ]
+  },
+  {
+    "id": "future-tense",
+    "level": "Beginner",
+    "topic": "Future Tense",
+    "simple": "Digunakan untuk rencana, prediksi, dan keputusan masa depan.",
+    "formula": "Will: S + will + V1\nGoing to: S + am/is/are going to + V1",
+    "usage": ["Predictions", "Plans", "Promises"],
+    "example": "I will take the IELTS test next year.",
+    "mistake": "I will studying. ❌\nI will study. ✅",
+    "ieltsTip": "Berguna saat menjawab pertanyaan tentang future plans di Speaking.",
+    "exercise": [
+      {"q":"I ___ prepare for HSK next month.","options":["will","am","was"],"answer":"will"},
+      {"q":"She is going to ___ abroad.","options":["studies","study","studied"],"answer":"study"}
+    ]
+  },
+  {
+    "id": "present-perfect",
+    "level": "Intermediate",
+    "topic": "Present Perfect",
+    "simple": "Digunakan untuk pengalaman, hasil yang masih terasa sekarang, atau kejadian yang dimulai di masa lalu dan masih relevan.",
+    "formula": "S + have/has + V3",
+    "usage": ["Experience", "Recent result", "Since/for"],
+    "example": "I have learned English for three years.",
+    "mistake": "I have learn English. ❌\nI have learned English. ✅",
+    "ieltsTip": "Bagus untuk Speaking Part 1 dan 3 saat membahas pengalaman hidup.",
+    "exercise": [
+      {"q":"He ___ finished his homework.","options":["have","has","is"],"answer":"has"},
+      {"q":"I have lived here ___ 2020.","options":["for","since","during"],"answer":"since"}
+    ]
+  },
+  {
+    "id": "passive-voice",
+    "level": "Intermediate",
+    "topic": "Passive Voice",
+    "simple": "Digunakan ketika fokus pada objek/hasil, bukan pelaku.",
+    "formula": "S + be + V3\nExample: The report is written by students.",
+    "usage": ["Formal writing", "Processes", "When actor is unknown"],
+    "example": "The data is collected from online surveys.",
+    "mistake": "The data collected by students. ❌\nThe data is collected by students. ✅",
+    "ieltsTip": "Sangat berguna untuk Writing Task 1 process diagram.",
+    "exercise": [
+      {"q":"The essay ___ checked by the teacher.","options":["is","are","be"],"answer":"is"},
+      {"q":"The books were ___ yesterday.","options":["deliver","delivered","delivering"],"answer":"delivered"}
+    ]
+  },
+  {
+    "id": "conditionals",
+    "level": "Advanced",
+    "topic": "Conditionals",
+    "simple": "Digunakan untuk kemungkinan, imajinasi, dan akibat dari kondisi tertentu.",
+    "formula": "Zero: If + present, present\nFirst: If + present, will + V1\nSecond: If + past, would + V1",
+    "usage": ["Real possibilities", "Imaginary situations", "Cause-effect"],
+    "example": "If students practice daily, they will improve faster.",
+    "mistake": "If I will study, I will pass. ❌\nIf I study, I will pass. ✅",
+    "ieltsTip": "Menaikkan grammar range di Writing Task 2 dan Speaking Part 3.",
+    "exercise": [
+      {"q":"If I study hard, I ___ improve.","options":["will","would","was"],"answer":"will"},
+      {"q":"If I had more time, I ___ practice speaking.","options":["will","would","am"],"answer":"would"}
+    ]
+  },
+  {
+    "id": "relative-clauses",
+    "level": "Advanced",
+    "topic": "Relative Clauses",
+    "simple": "Digunakan untuk menambahkan informasi tentang noun tanpa membuat kalimat baru.",
+    "formula": "who / which / that / where / whose",
+    "usage": ["Add detail", "Combine sentences", "Improve sentence variety"],
+    "example": "Students who read regularly usually have better vocabulary.",
+    "mistake": "The student which studies hard. ❌\nThe student who studies hard. ✅",
+    "ieltsTip": "Membuat tulisan lebih kompleks dan natural.",
+    "exercise": [
+      {"q":"The person ___ helped me is my teacher.","options":["who","which","where"],"answer":"who"},
+      {"q":"This is the book ___ I bought yesterday.","options":["who","that","where"],"answer":"that"}
+    ]
+  }
+]

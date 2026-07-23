@@ -1,0 +1,4862 @@
+[
+  {
+    "id": "kanji-0001",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "上",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0002",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "下",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0003",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "中",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0004",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "人",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0005",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "今",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0006",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "日",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0007",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "何",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0008",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "先",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0009",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "生",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0010",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "友",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0011",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "達",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0012",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "古",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0013",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "右",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0014",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "外",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0015",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "夜",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0016",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "大",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0017",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "学",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0018",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "好",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0019",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "嫌",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0020",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "校",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0021",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "安",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0022",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "家",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0023",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "寒",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0024",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "小",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0025",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "左",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0026",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "新",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0027",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "本",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0028",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "語",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0029",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "明",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0030",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "昨",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0031",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "昼",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0032",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "時",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0033",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "間",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0034",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "暑",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0035",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "書",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0036",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "朝",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0037",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "来",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0038",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "水",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0039",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "私",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0040",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "聞",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0041",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "英",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0042",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "行",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0043",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "見",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0044",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "話",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0045",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "読",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0046",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "誰",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0047",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "買",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0048",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "車",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0049",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "部",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0050",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "屋",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0051",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "電",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0052",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "食",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0053",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "飲",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0054",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "駅",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0055",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "高",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0056",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "化",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0057",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "茶",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0058",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "費",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0059",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "飯",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0060",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "係",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0061",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "力",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0062",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "的",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0063",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "休",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0064",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "禁",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0065",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "止",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0066",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "会",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0067",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "社",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0068",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "低",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0069",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "管",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0070",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "理",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0071",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "機",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0072",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "面",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0073",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "点",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0074",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "分",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0075",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "析",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0076",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "可",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0077",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "能",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0078",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "用",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0079",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "作",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0080",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "場",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0081",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "所",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0082",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "使",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0083",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "者",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0084",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "便",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0085",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "利",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0086",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "働",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0087",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "必",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0088",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "要",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0089",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "性",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0090",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "勉",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0091",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "強",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0092",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "料",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0093",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "卵",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0094",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "口",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0095",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "活",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0096",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "動",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0097",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "問",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0098",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "題",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0099",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "名",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0100",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "前",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0101",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "研",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0102",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "究",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0103",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "国",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0104",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "印",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0105",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "象",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0106",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "天",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0107",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "気",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0108",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "女",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0109",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "子",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0110",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "供",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0111",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "寝",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0112",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "状",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0113",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "態",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0114",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "山",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0115",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "川",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0116",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "後",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0117",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "帰",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0118",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "終",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0119",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "店",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0120",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "彼",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0121",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "練",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0122",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "習",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0123",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "忙",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0124",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "悪",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0125",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "手",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0126",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "計",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0127",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "画",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0128",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "法",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0129",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "感",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0130",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "机",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0131",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "案",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0132",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "続",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0133",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "果",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0134",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "物",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0135",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "椅",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0136",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "表",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0137",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "楽",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0138",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "図",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0139",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "海",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0140",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "牛",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0141",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "乳",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0142",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "員",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0143",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "男",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0144",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "町",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0145",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "目",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0146",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "制",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0147",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "度",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0148",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "空",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0149",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "紙",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0150",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "耳",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0151",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "肉",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0152",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "自",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0153",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "転",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0154",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "論",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0155",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "良",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0156",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "始",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0157",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "方",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0158",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "起",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0159",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "予",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0160",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "定",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0161",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "足",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0162",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "資",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0163",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "野",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0164",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "菜",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0165",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "鉛",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0166",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "筆",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0167",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "雨",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0168",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "雪",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0169",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "静",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0170",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "風",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0171",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "魚",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0172",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "率",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0173",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "個",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0174",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "準",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0175",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "備",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0176",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "合",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0177",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "確",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0178",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "認",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0179",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "由",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0180",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "共",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0181",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "同",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0182",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "結",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0183",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "再",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0184",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "際",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0185",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "旧",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0186",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "不",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0187",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "仕",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0188",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "事",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0189",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "議",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0190",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "危",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0191",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "険",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0192",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "全",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0193",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "将",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0194",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "弱",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0195",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "待",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0196",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "忘",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0197",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "急",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0198",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "意",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0199",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "伝",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0200",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "旅",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0201",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "早",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0202",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "有",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0203",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "正",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0204",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "特",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0205",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "別",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0206",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "珍",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0207",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "病",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0208",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "院",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0209",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "港",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0210",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "答",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0211",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "簡",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0212",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "単",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0213",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "経",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0214",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "験",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0215",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "考",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0216",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "複",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0217",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "雑",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0218",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "覚",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0219",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "親",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0220",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "切",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0221",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "説",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0222",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "質",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0223",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "近",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0224",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "遅",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0225",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "遠",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0226",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "選",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0227",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "交",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0228",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "通",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0229",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "住",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0230",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "写",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0231",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "真",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0232",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "助",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0233",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "医",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0234",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "味",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0235",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "地",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0236",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "変",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0237",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "宿",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0238",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "文",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0239",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "映",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0240",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "材",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0241",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "比",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0242",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "漢",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0243",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "字",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0244",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "熱",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0245",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "発",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0246",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "音",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0247",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "約",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0248",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "束",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0249",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "慣",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0250",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "薬",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0251",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "試",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0252",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "調",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0253",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "送",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0254",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "運",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0255",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "集",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0256",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "難",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0257",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "邪",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0258",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "教",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0259",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "育",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0260",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "環",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0261",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "境",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0262",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "済",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0263",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "努",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0264",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "十",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0265",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "原",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0266",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "因",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0267",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "参",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0268",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "加",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0269",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "反",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0270",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "対",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0271",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "増",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0272",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "失",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0273",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "敗",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0274",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "守",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0275",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "影",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0276",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "響",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0277",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "情",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0278",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "報",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0279",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "成",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0280",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "功",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0281",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "長",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0282",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "技",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0283",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "術",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0284",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "改",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0285",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "善",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0286",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "普",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0287",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "条",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0288",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "件",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0289",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "較",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0290",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "決",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0291",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "減",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0292",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "無",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0293",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "解",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0294",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "標",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0295",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "直",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0296",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "接",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0297",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "然",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0298",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "賛",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0299",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "連",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0300",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "絡",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0301",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "重",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0302",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "関",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0303",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "協",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0304",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "受",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0305",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "告",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0306",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "戻",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0307",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "支",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0308",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "政",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0309",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "治",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0310",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "律",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0311",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "浅",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0312",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "深",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0313",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "相",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0314",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "談",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0315",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "積",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0316",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "極",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0317",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "細",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0318",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "詳",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0319",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "課",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0320",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "進",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0321",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "渉",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0322",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "給",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0323",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "依",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0324",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "存",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0325",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "保",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0326",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "証",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0327",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "体",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0328",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "具",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0329",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "判",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0330",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "断",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0331",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "益",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0332",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "限",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0333",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "効",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0334",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "回",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0335",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "復",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0336",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "契",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0337",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "実",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0338",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "施",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0339",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "導",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0340",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "入",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0341",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "批",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0342",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "抽",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0343",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "拡",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0344",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "提",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0345",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "損",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0346",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "策",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0347",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "格",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0348",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "差",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0349",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "権",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0350",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "消",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0351",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "展",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0352",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "当",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0353",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "競",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0354",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "争",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0355",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "維",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0356",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "持",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0357",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "縮",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0358",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "義",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0359",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "務",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0360",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "数",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0361",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "釈",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0362",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "評",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0363",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "価",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0364",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "識",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0365",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "貢",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0366",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "献",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0367",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "責",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0368",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "任",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0369",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "源",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0370",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "適",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0371",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "応",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0372",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "需",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0373",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "企",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0374",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "業",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0375",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "伴",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0376",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "促",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0377",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "傾",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0378",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "向",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0379",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "含",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0380",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "基",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0381",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "専",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0382",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "門",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0383",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "市",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0384",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "慎",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0385",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "戦",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0386",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "略",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0387",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "扱",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0388",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "担",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0389",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "望",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0390",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "柔",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0391",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "軟",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0392",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "構",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0393",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "造",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0394",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "激",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0395",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "現",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0396",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "示",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0397",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "程",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0398",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "範",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0399",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "囲",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0400",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "著",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0401",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "述",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0402",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "界",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0403",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "除",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0404",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "介",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0405",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "仮",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0406",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "倫",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0407",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "偏",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0408",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "克",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0409",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "服",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0410",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "散",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0411",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "包",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0412",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "括",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0413",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "匿",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0414",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "固",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0415",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "妥",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0416",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "尊",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0417",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "属",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0418",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "干",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0419",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "志",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0420",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "恒",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0421",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "常",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0422",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "抑",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0423",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "抵",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0424",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "抗",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0425",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "排",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0426",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "推",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0427",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "測",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0428",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "脈",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0429",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "瞭",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0430",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "是",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0431",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "遍",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0432",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "暫",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0433",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "曖",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0434",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "昧",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0435",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "根",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0436",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "拠",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0437",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "概",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0438",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "念",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0439",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "kanji": "欠",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0440",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "如",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0441",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "洞",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0442",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "察",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0443",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "互",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0444",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "矛",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0445",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "盾",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0446",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "唆",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0447",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "統",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0448",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "緻",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0449",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "密",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0450",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "膨",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0451",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "葛",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0452",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "藤",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0453",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "規",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0454",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "視",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0455",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "譲",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0456",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "歩",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0457",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "軽",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0458",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "追",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0459",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "求",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0460",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "過",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0461",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "剰",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0462",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "革",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0463",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "顕",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0464",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "余",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0465",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "側",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0466",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "偶",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0467",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "厳",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0468",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "及",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0469",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "営",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0470",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "均",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0471",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "衡",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0472",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "胆",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0473",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "容",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0474",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "巧",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0475",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "妙",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0476",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "携",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0477",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "検",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0478",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "淘",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0479",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "汰",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0480",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "漠",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0481",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "築",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0482",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "脅",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0483",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "威",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0484",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "覆",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0485",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "遂",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  },
+  {
+    "id": "kanji-0486",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "kanji": "阻",
+    "meaning": "kanji umum dalam bank kosakata",
+    "onyomi": "-",
+    "kunyomi": "-",
+    "example": "Lihat contoh pada JLPT Vocabulary Bank."
+  }
+]

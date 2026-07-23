@@ -1,0 +1,5252 @@
+[
+  {
+    "id": "jp-g-n5-01",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "は",
+    "explain": "Pola は dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『は』はJLPT N5でよく練習します。",
+    "mistake": "❌ は を無理に使います。\n✅ 文脈に合うときだけ『は』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola は.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-02",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "が",
+    "explain": "Pola が dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『が』はJLPT N5でよく練習します。",
+    "mistake": "❌ が を無理に使います。\n✅ 文脈に合うときだけ『が』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola が.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-03",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "を",
+    "explain": "Pola を dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『を』はJLPT N5でよく練習します。",
+    "mistake": "❌ を を無理に使います。\n✅ 文脈に合うときだけ『を』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola を.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-04",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "に",
+    "explain": "Pola に dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に』はJLPT N5でよく練習します。",
+    "mistake": "❌ に を無理に使います。\n✅ 文脈に合うときだけ『に』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-05",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "で",
+    "explain": "Pola で dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『で』はJLPT N5でよく練習します。",
+    "mistake": "❌ で を無理に使います。\n✅ 文脈に合うときだけ『で』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola で.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-06",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "へ",
+    "explain": "Pola へ dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『へ』はJLPT N5でよく練習します。",
+    "mistake": "❌ へ を無理に使います。\n✅ 文脈に合うときだけ『へ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola へ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-07",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "と",
+    "explain": "Pola と dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『と』はJLPT N5でよく練習します。",
+    "mistake": "❌ と を無理に使います。\n✅ 文脈に合うときだけ『と』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola と.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-08",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "も",
+    "explain": "Pola も dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『も』はJLPT N5でよく練習します。",
+    "mistake": "❌ も を無理に使います。\n✅ 文脈に合うときだけ『も』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola も.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-09",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "の",
+    "explain": "Pola の dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『の』はJLPT N5でよく練習します。",
+    "mistake": "❌ の を無理に使います。\n✅ 文脈に合うときだけ『の』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola の.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-10",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "です",
+    "explain": "Pola です dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『です』はJLPT N5でよく練習します。",
+    "mistake": "❌ です を無理に使います。\n✅ 文脈に合うときだけ『です』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola です.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-11",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "ます",
+    "explain": "Pola ます dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ます』はJLPT N5でよく練習します。",
+    "mistake": "❌ ます を無理に使います。\n✅ 文脈に合うときだけ『ます』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ます.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-12",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "ません",
+    "explain": "Pola ません dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ません』はJLPT N5でよく練習します。",
+    "mistake": "❌ ません を無理に使います。\n✅ 文脈に合うときだけ『ません』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ません.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-13",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "ました",
+    "explain": "Pola ました dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ました』はJLPT N5でよく練習します。",
+    "mistake": "❌ ました を無理に使います。\n✅ 文脈に合うときだけ『ました』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ました.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-14",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "ませんでした",
+    "explain": "Pola ませんでした dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ませんでした』はJLPT N5でよく練習します。",
+    "mistake": "❌ ませんでした を無理に使います。\n✅ 文脈に合うときだけ『ませんでした』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ませんでした.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-15",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "があります",
+    "explain": "Pola があります dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『があります』はJLPT N5でよく練習します。",
+    "mistake": "❌ があります を無理に使います。\n✅ 文脈に合うときだけ『があります』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola があります.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-16",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "います",
+    "explain": "Pola います dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『います』はJLPT N5でよく練習します。",
+    "mistake": "❌ います を無理に使います。\n✅ 文脈に合うときだけ『います』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola います.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-17",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "これ/それ/あれ",
+    "explain": "Pola これ/それ/あれ dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『これ/それ/あれ』はJLPT N5でよく練習します。",
+    "mistake": "❌ これ/それ/あれ を無理に使います。\n✅ 文脈に合うときだけ『これ/それ/あれ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola これ/それ/あれ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-18",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "この/その/あの",
+    "explain": "Pola この/その/あの dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『この/その/あの』はJLPT N5でよく練習します。",
+    "mistake": "❌ この/その/あの を無理に使います。\n✅ 文脈に合うときだけ『この/その/あの』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola この/その/あの.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-19",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "ここ/そこ/あそこ",
+    "explain": "Pola ここ/そこ/あそこ dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ここ/そこ/あそこ』はJLPT N5でよく練習します。",
+    "mistake": "❌ ここ/そこ/あそこ を無理に使います。\n✅ 文脈に合うときだけ『ここ/そこ/あそこ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ここ/そこ/あそこ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-20",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "何/いつ/どこ/だれ",
+    "explain": "Pola 何/いつ/どこ/だれ dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『何/いつ/どこ/だれ』はJLPT N5でよく練習します。",
+    "mistake": "❌ 何/いつ/どこ/だれ を無理に使います。\n✅ 文脈に合うときだけ『何/いつ/どこ/だれ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 何/いつ/どこ/だれ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-21",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "い-adjective",
+    "explain": "Pola い-adjective dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『い-adjective』はJLPT N5でよく練習します。",
+    "mistake": "❌ い-adjective を無理に使います。\n✅ 文脈に合うときだけ『い-adjective』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola い-adjective.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-22",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "な-adjective",
+    "explain": "Pola な-adjective dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『な-adjective』はJLPT N5でよく練習します。",
+    "mistake": "❌ な-adjective を無理に使います。\n✅ 文脈に合うときだけ『な-adjective』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola な-adjective.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-23",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "たいです",
+    "explain": "Pola たいです dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『たいです』はJLPT N5でよく練習します。",
+    "mistake": "❌ たいです を無理に使います。\n✅ 文脈に合うときだけ『たいです』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola たいです.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-24",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "ましょう",
+    "explain": "Pola ましょう dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ましょう』はJLPT N5でよく練習します。",
+    "mistake": "❌ ましょう を無理に使います。\n✅ 文脈に合うときだけ『ましょう』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ましょう.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-25",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "てください",
+    "explain": "Pola てください dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『てください』はJLPT N5でよく練習します。",
+    "mistake": "❌ てください を無理に使います。\n✅ 文脈に合うときだけ『てください』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola てください.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-26",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "てもいいです",
+    "explain": "Pola てもいいです dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『てもいいです』はJLPT N5でよく練習します。",
+    "mistake": "❌ てもいいです を無理に使います。\n✅ 文脈に合うときだけ『てもいいです』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola てもいいです.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-27",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "てはいけません",
+    "explain": "Pola てはいけません dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『てはいけません』はJLPT N5でよく練習します。",
+    "mistake": "❌ てはいけません を無理に使います。\n✅ 文脈に合うときだけ『てはいけません』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola てはいけません.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-28",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "から/まで",
+    "explain": "Pola から/まで dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『から/まで』はJLPT N5でよく練習します。",
+    "mistake": "❌ から/まで を無理に使います。\n✅ 文脈に合うときだけ『から/まで』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola から/まで.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-29",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "から (reason)",
+    "explain": "Pola から (reason) dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『から (reason)』はJLPT N5でよく練習します。",
+    "mistake": "❌ から (reason) を無理に使います。\n✅ 文脈に合うときだけ『から (reason)』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola から (reason).",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-30",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "そして",
+    "explain": "Pola そして dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『そして』はJLPT N5でよく練習します。",
+    "mistake": "❌ そして を無理に使います。\n✅ 文脈に合うときだけ『そして』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola そして.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-31",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "でも",
+    "explain": "Pola でも dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『でも』はJLPT N5でよく練習します。",
+    "mistake": "❌ でも を無理に使います。\n✅ 文脈に合うときだけ『でも』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola でも.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-32",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "とても",
+    "explain": "Pola とても dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『とても』はJLPT N5でよく練習します。",
+    "mistake": "❌ とても を無理に使います。\n✅ 文脈に合うときだけ『とても』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola とても.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-33",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "あまり",
+    "explain": "Pola あまり dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『あまり』はJLPT N5でよく練習します。",
+    "mistake": "❌ あまり を無理に使います。\n✅ 文脈に合うときだけ『あまり』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola あまり.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-34",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "もう",
+    "explain": "Pola もう dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『もう』はJLPT N5でよく練習します。",
+    "mistake": "❌ もう を無理に使います。\n✅ 文脈に合うときだけ『もう』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola もう.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-35",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "まだ",
+    "explain": "Pola まだ dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『まだ』はJLPT N5でよく練習します。",
+    "mistake": "❌ まだ を無理に使います。\n✅ 文脈に合うときだけ『まだ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola まだ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-36",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "ぐらい",
+    "explain": "Pola ぐらい dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ぐらい』はJLPT N5でよく練習します。",
+    "mistake": "❌ ぐらい を無理に使います。\n✅ 文脈に合うときだけ『ぐらい』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ぐらい.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-37",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "だけ",
+    "explain": "Pola だけ dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『だけ』はJLPT N5でよく練習します。",
+    "mistake": "❌ だけ を無理に使います。\n✅ 文脈に合うときだけ『だけ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola だけ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-38",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "一番",
+    "explain": "Pola 一番 dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『一番』はJLPT N5でよく練習します。",
+    "mistake": "❌ 一番 を無理に使います。\n✅ 文脈に合うときだけ『一番』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 一番.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-39",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "より",
+    "explain": "Pola より dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『より』はJLPT N5でよく練習します。",
+    "mistake": "❌ より を無理に使います。\n✅ 文脈に合うときだけ『より』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola より.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-40",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "のが好き",
+    "explain": "Pola のが好き dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『のが好き』はJLPT N5でよく練習します。",
+    "mistake": "❌ のが好き を無理に使います。\n✅ 文脈に合うときだけ『のが好き』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola のが好き.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-41",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "こと",
+    "explain": "Pola こと dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『こと』はJLPT N5でよく練習します。",
+    "mistake": "❌ こと を無理に使います。\n✅ 文脈に合うときだけ『こと』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola こと.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-42",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "前に",
+    "explain": "Pola 前に dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『前に』はJLPT N5でよく練習します。",
+    "mistake": "❌ 前に を無理に使います。\n✅ 文脈に合うときだけ『前に』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 前に.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-43",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "後で",
+    "explain": "Pola 後で dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『後で』はJLPT N5でよく練習します。",
+    "mistake": "❌ 後で を無理に使います。\n✅ 文脈に合うときだけ『後で』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 後で.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-44",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "毎/週/月/年",
+    "explain": "Pola 毎/週/月/年 dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『毎/週/月/年』はJLPT N5でよく練習します。",
+    "mistake": "❌ 毎/週/月/年 を無理に使います。\n✅ 文脈に合うときだけ『毎/週/月/年』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 毎/週/月/年.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-45",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "数字と助数詞",
+    "explain": "Pola 数字と助数詞 dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『数字と助数詞』はJLPT N5でよく練習します。",
+    "mistake": "❌ 数字と助数詞 を無理に使います。\n✅ 文脈に合うときだけ『数字と助数詞』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 数字と助数詞.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-46",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "時間表現",
+    "explain": "Pola 時間表現 dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『時間表現』はJLPT N5でよく練習します。",
+    "mistake": "❌ 時間表現 を無理に使います。\n✅ 文脈に合うときだけ『時間表現』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 時間表現.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-47",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "疑問文か",
+    "explain": "Pola 疑問文か dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『疑問文か』はJLPT N5でよく練習します。",
+    "mistake": "❌ 疑問文か を無理に使います。\n✅ 文脈に合うときだけ『疑問文か』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 疑問文か.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-48",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "否定文",
+    "explain": "Pola 否定文 dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『否定文』はJLPT N5でよく練習します。",
+    "mistake": "❌ 否定文 を無理に使います。\n✅ 文脈に合うときだけ『否定文』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 否定文.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-49",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "存在文",
+    "explain": "Pola 存在文 dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『存在文』はJLPT N5でよく練習します。",
+    "mistake": "❌ 存在文 を無理に使います。\n✅ 文脈に合うときだけ『存在文』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 存在文.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n5-50",
+    "language": "Japanese",
+    "level": "JLPT N5",
+    "topic": "基本会話",
+    "explain": "Pola 基本会話 dipakai dalam latihan JLPT N5. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『基本会話』はJLPT N5でよく練習します。",
+    "mistake": "❌ 基本会話 を無理に使います。\n✅ 文脈に合うときだけ『基本会話』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 基本会話.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-01",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ことがある",
+    "explain": "Pola ことがある dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ことがある』はJLPT N4でよく練習します。",
+    "mistake": "❌ ことがある を無理に使います。\n✅ 文脈に合うときだけ『ことがある』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ことがある.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-02",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "たり〜たり",
+    "explain": "Pola たり〜たり dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『たり〜たり』はJLPT N4でよく練習します。",
+    "mistake": "❌ たり〜たり を無理に使います。\n✅ 文脈に合うときだけ『たり〜たり』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola たり〜たり.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-03",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "なければならない",
+    "explain": "Pola なければならない dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『なければならない』はJLPT N4でよく練習します。",
+    "mistake": "❌ なければならない を無理に使います。\n✅ 文脈に合うときだけ『なければならない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola なければならない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-04",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "なくてもいい",
+    "explain": "Pola なくてもいい dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『なくてもいい』はJLPT N4でよく練習します。",
+    "mistake": "❌ なくてもいい を無理に使います。\n✅ 文脈に合うときだけ『なくてもいい』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola なくてもいい.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-05",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "てしまう",
+    "explain": "Pola てしまう dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『てしまう』はJLPT N4でよく練習します。",
+    "mistake": "❌ てしまう を無理に使います。\n✅ 文脈に合うときだけ『てしまう』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola てしまう.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-06",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ておく",
+    "explain": "Pola ておく dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ておく』はJLPT N4でよく練習します。",
+    "mistake": "❌ ておく を無理に使います。\n✅ 文脈に合うときだけ『ておく』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ておく.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-07",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "てみる",
+    "explain": "Pola てみる dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『てみる』はJLPT N4でよく練習します。",
+    "mistake": "❌ てみる を無理に使います。\n✅ 文脈に合うときだけ『てみる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola てみる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-08",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ている",
+    "explain": "Pola ている dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ている』はJLPT N4でよく練習します。",
+    "mistake": "❌ ている を無理に使います。\n✅ 文脈に合うときだけ『ている』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ている.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-09",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "そうだ",
+    "explain": "Pola そうだ dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『そうだ』はJLPT N4でよく練習します。",
+    "mistake": "❌ そうだ を無理に使います。\n✅ 文脈に合うときだけ『そうだ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola そうだ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-10",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ようだ",
+    "explain": "Pola ようだ dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ようだ』はJLPT N4でよく練習します。",
+    "mistake": "❌ ようだ を無理に使います。\n✅ 文脈に合うときだけ『ようだ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ようだ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-11",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "らしい",
+    "explain": "Pola らしい dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『らしい』はJLPT N4でよく練習します。",
+    "mistake": "❌ らしい を無理に使います。\n✅ 文脈に合うときだけ『らしい』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola らしい.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-12",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "かもしれない",
+    "explain": "Pola かもしれない dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『かもしれない』はJLPT N4でよく練習します。",
+    "mistake": "❌ かもしれない を無理に使います。\n✅ 文脈に合うときだけ『かもしれない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola かもしれない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-13",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "でしょう",
+    "explain": "Pola でしょう dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『でしょう』はJLPT N4でよく練習します。",
+    "mistake": "❌ でしょう を無理に使います。\n✅ 文脈に合うときだけ『でしょう』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola でしょう.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-14",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "と思う",
+    "explain": "Pola と思う dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『と思う』はJLPT N4でよく練習します。",
+    "mistake": "❌ と思う を無理に使います。\n✅ 文脈に合うときだけ『と思う』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola と思う.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-15",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "かどうか",
+    "explain": "Pola かどうか dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『かどうか』はJLPT N4でよく練習します。",
+    "mistake": "❌ かどうか を無理に使います。\n✅ 文脈に合うときだけ『かどうか』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola かどうか.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-16",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ので",
+    "explain": "Pola ので dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ので』はJLPT N4でよく練習します。",
+    "mistake": "❌ ので を無理に使います。\n✅ 文脈に合うときだけ『ので』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ので.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-17",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "のに",
+    "explain": "Pola のに dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『のに』はJLPT N4でよく練習します。",
+    "mistake": "❌ のに を無理に使います。\n✅ 文脈に合うときだけ『のに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola のに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-18",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ば",
+    "explain": "Pola ば dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ば』はJLPT N4でよく練習します。",
+    "mistake": "❌ ば を無理に使います。\n✅ 文脈に合うときだけ『ば』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ば.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-19",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "たら",
+    "explain": "Pola たら dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『たら』はJLPT N4でよく練習します。",
+    "mistake": "❌ たら を無理に使います。\n✅ 文脈に合うときだけ『たら』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola たら.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-20",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "なら",
+    "explain": "Pola なら dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『なら』はJLPT N4でよく練習します。",
+    "mistake": "❌ なら を無理に使います。\n✅ 文脈に合うときだけ『なら』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola なら.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-21",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ても",
+    "explain": "Pola ても dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ても』はJLPT N4でよく練習します。",
+    "mistake": "❌ ても を無理に使います。\n✅ 文脈に合うときだけ『ても』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ても.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-22",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ほど",
+    "explain": "Pola ほど dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ほど』はJLPT N4でよく練習します。",
+    "mistake": "❌ ほど を無理に使います。\n✅ 文脈に合うときだけ『ほど』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ほど.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-23",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "より〜ほうが",
+    "explain": "Pola より〜ほうが dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『より〜ほうが』はJLPT N4でよく練習します。",
+    "mistake": "❌ より〜ほうが を無理に使います。\n✅ 文脈に合うときだけ『より〜ほうが』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola より〜ほうが.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-24",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ようになる",
+    "explain": "Pola ようになる dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ようになる』はJLPT N4でよく練習します。",
+    "mistake": "❌ ようになる を無理に使います。\n✅ 文脈に合うときだけ『ようになる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ようになる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-25",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ようにする",
+    "explain": "Pola ようにする dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ようにする』はJLPT N4でよく練習します。",
+    "mistake": "❌ ようにする を無理に使います。\n✅ 文脈に合うときだけ『ようにする』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ようにする.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-26",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ために",
+    "explain": "Pola ために dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ために』はJLPT N4でよく練習します。",
+    "mistake": "❌ ために を無理に使います。\n✅ 文脈に合うときだけ『ために』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ために.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-27",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "うちに",
+    "explain": "Pola うちに dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『うちに』はJLPT N4でよく練習します。",
+    "mistake": "❌ うちに を無理に使います。\n✅ 文脈に合うときだけ『うちに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola うちに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-28",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ところ",
+    "explain": "Pola ところ dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ところ』はJLPT N4でよく練習します。",
+    "mistake": "❌ ところ を無理に使います。\n✅ 文脈に合うときだけ『ところ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ところ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-29",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "あいだに",
+    "explain": "Pola あいだに dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『あいだに』はJLPT N4でよく練習します。",
+    "mistake": "❌ あいだに を無理に使います。\n✅ 文脈に合うときだけ『あいだに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola あいだに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-30",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "てから",
+    "explain": "Pola てから dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『てから』はJLPT N4でよく練習します。",
+    "mistake": "❌ てから を無理に使います。\n✅ 文脈に合うときだけ『てから』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola てから.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-31",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ばかり",
+    "explain": "Pola ばかり dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ばかり』はJLPT N4でよく練習します。",
+    "mistake": "❌ ばかり を無理に使います。\n✅ 文脈に合うときだけ『ばかり』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ばかり.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-32",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "すぎる",
+    "explain": "Pola すぎる dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『すぎる』はJLPT N4でよく練習します。",
+    "mistake": "❌ すぎる を無理に使います。\n✅ 文脈に合うときだけ『すぎる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola すぎる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-33",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "やすい/にくい",
+    "explain": "Pola やすい/にくい dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『やすい/にくい』はJLPT N4でよく練習します。",
+    "mistake": "❌ やすい/にくい を無理に使います。\n✅ 文脈に合うときだけ『やすい/にくい』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola やすい/にくい.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-34",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "方",
+    "explain": "Pola 方 dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『方』はJLPT N4でよく練習します。",
+    "mistake": "❌ 方 を無理に使います。\n✅ 文脈に合うときだけ『方』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 方.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-35",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "つもり",
+    "explain": "Pola つもり dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『つもり』はJLPT N4でよく練習します。",
+    "mistake": "❌ つもり を無理に使います。\n✅ 文脈に合うときだけ『つもり』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola つもり.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-36",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "予定",
+    "explain": "Pola 予定 dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『予定』はJLPT N4でよく練習します。",
+    "mistake": "❌ 予定 を無理に使います。\n✅ 文脈に合うときだけ『予定』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 予定.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-37",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "はず",
+    "explain": "Pola はず dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『はず』はJLPT N4でよく練習します。",
+    "mistake": "❌ はず を無理に使います。\n✅ 文脈に合うときだけ『はず』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola はず.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-38",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "かた",
+    "explain": "Pola かた dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『かた』はJLPT N4でよく練習します。",
+    "mistake": "❌ かた を無理に使います。\n✅ 文脈に合うときだけ『かた』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola かた.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-39",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "場合",
+    "explain": "Pola 場合 dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『場合』はJLPT N4でよく練習します。",
+    "mistake": "❌ 場合 を無理に使います。\n✅ 文脈に合うときだけ『場合』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 場合.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-40",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "急に",
+    "explain": "Pola 急に dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『急に』はJLPT N4でよく練習します。",
+    "mistake": "❌ 急に を無理に使います。\n✅ 文脈に合うときだけ『急に』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 急に.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-41",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "ずつ",
+    "explain": "Pola ずつ dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ずつ』はJLPT N4でよく練習します。",
+    "mistake": "❌ ずつ を無理に使います。\n✅ 文脈に合うときだけ『ずつ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ずつ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-42",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "以上/以下",
+    "explain": "Pola 以上/以下 dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『以上/以下』はJLPT N4でよく練習します。",
+    "mistake": "❌ 以上/以下 を無理に使います。\n✅ 文脈に合うときだけ『以上/以下』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 以上/以下.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-43",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "以内",
+    "explain": "Pola 以内 dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『以内』はJLPT N4でよく練習します。",
+    "mistake": "❌ 以内 を無理に使います。\n✅ 文脈に合うときだけ『以内』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 以内.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-44",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "以外",
+    "explain": "Pola 以外 dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『以外』はJLPT N4でよく練習します。",
+    "mistake": "❌ 以外 を無理に使います。\n✅ 文脈に合うときだけ『以外』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 以外.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-45",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "出す",
+    "explain": "Pola 出す dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『出す』はJLPT N4でよく練習します。",
+    "mistake": "❌ 出す を無理に使います。\n✅ 文脈に合うときだけ『出す』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 出す.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-46",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "続ける",
+    "explain": "Pola 続ける dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『続ける』はJLPT N4でよく練習します。",
+    "mistake": "❌ 続ける を無理に使います。\n✅ 文脈に合うときだけ『続ける』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 続ける.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-47",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "始める",
+    "explain": "Pola 始める dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『始める』はJLPT N4でよく練習します。",
+    "mistake": "❌ 始める を無理に使います。\n✅ 文脈に合うときだけ『始める』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 始める.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-48",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "終わる",
+    "explain": "Pola 終わる dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『終わる』はJLPT N4でよく練習します。",
+    "mistake": "❌ 終わる を無理に使います。\n✅ 文脈に合うときだけ『終わる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 終わる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-49",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "必要がある",
+    "explain": "Pola 必要がある dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『必要がある』はJLPT N4でよく練習します。",
+    "mistake": "❌ 必要がある を無理に使います。\n✅ 文脈に合うときだけ『必要がある』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 必要がある.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n4-50",
+    "language": "Japanese",
+    "level": "JLPT N4",
+    "topic": "命令形",
+    "explain": "Pola 命令形 dipakai dalam latihan JLPT N4. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『命令形』はJLPT N4でよく練習します。",
+    "mistake": "❌ 命令形 を無理に使います。\n✅ 文脈に合うときだけ『命令形』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 命令形.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-01",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ように",
+    "explain": "Pola ように dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ように』はJLPT N3でよく練習します。",
+    "mistake": "❌ ように を無理に使います。\n✅ 文脈に合うときだけ『ように』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ように.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-02",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ことにする",
+    "explain": "Pola ことにする dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ことにする』はJLPT N3でよく練習します。",
+    "mistake": "❌ ことにする を無理に使います。\n✅ 文脈に合うときだけ『ことにする』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ことにする.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-03",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ことになる",
+    "explain": "Pola ことになる dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ことになる』はJLPT N3でよく練習します。",
+    "mistake": "❌ ことになる を無理に使います。\n✅ 文脈に合うときだけ『ことになる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ことになる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-04",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ために",
+    "explain": "Pola ために dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ために』はJLPT N3でよく練習します。",
+    "mistake": "❌ ために を無理に使います。\n✅ 文脈に合うときだけ『ために』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ために.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-05",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ばかり",
+    "explain": "Pola ばかり dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ばかり』はJLPT N3でよく練習します。",
+    "mistake": "❌ ばかり を無理に使います。\n✅ 文脈に合うときだけ『ばかり』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ばかり.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-06",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "たばかり",
+    "explain": "Pola たばかり dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『たばかり』はJLPT N3でよく練習します。",
+    "mistake": "❌ たばかり を無理に使います。\n✅ 文脈に合うときだけ『たばかり』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola たばかり.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-07",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "てばかりいる",
+    "explain": "Pola てばかりいる dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『てばかりいる』はJLPT N3でよく練習します。",
+    "mistake": "❌ てばかりいる を無理に使います。\n✅ 文脈に合うときだけ『てばかりいる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola てばかりいる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-08",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "そうにない",
+    "explain": "Pola そうにない dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『そうにない』はJLPT N3でよく練習します。",
+    "mistake": "❌ そうにない を無理に使います。\n✅ 文脈に合うときだけ『そうにない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola そうにない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-09",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "わけではない",
+    "explain": "Pola わけではない dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『わけではない』はJLPT N3でよく練習します。",
+    "mistake": "❌ わけではない を無理に使います。\n✅ 文脈に合うときだけ『わけではない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola わけではない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-10",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "はずだ",
+    "explain": "Pola はずだ dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『はずだ』はJLPT N3でよく練習します。",
+    "mistake": "❌ はずだ を無理に使います。\n✅ 文脈に合うときだけ『はずだ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola はずだ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-11",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "べきだ",
+    "explain": "Pola べきだ dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『べきだ』はJLPT N3でよく練習します。",
+    "mistake": "❌ べきだ を無理に使います。\n✅ 文脈に合うときだけ『べきだ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola べきだ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-12",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "について",
+    "explain": "Pola について dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『について』はJLPT N3でよく練習します。",
+    "mistake": "❌ について を無理に使います。\n✅ 文脈に合うときだけ『について』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola について.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-13",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "によって",
+    "explain": "Pola によって dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『によって』はJLPT N3でよく練習します。",
+    "mistake": "❌ によって を無理に使います。\n✅ 文脈に合うときだけ『によって』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola によって.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-14",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "として",
+    "explain": "Pola として dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『として』はJLPT N3でよく練習します。",
+    "mistake": "❌ として を無理に使います。\n✅ 文脈に合うときだけ『として』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola として.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-15",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "に対して",
+    "explain": "Pola に対して dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に対して』はJLPT N3でよく練習します。",
+    "mistake": "❌ に対して を無理に使います。\n✅ 文脈に合うときだけ『に対して』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に対して.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-16",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "に比べて",
+    "explain": "Pola に比べて dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に比べて』はJLPT N3でよく練習します。",
+    "mistake": "❌ に比べて を無理に使います。\n✅ 文脈に合うときだけ『に比べて』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に比べて.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-17",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "かわりに",
+    "explain": "Pola かわりに dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『かわりに』はJLPT N3でよく練習します。",
+    "mistake": "❌ かわりに を無理に使います。\n✅ 文脈に合うときだけ『かわりに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola かわりに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-18",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "せいで",
+    "explain": "Pola せいで dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『せいで』はJLPT N3でよく練習します。",
+    "mistake": "❌ せいで を無理に使います。\n✅ 文脈に合うときだけ『せいで』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola せいで.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-19",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "おかげで",
+    "explain": "Pola おかげで dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『おかげで』はJLPT N3でよく練習します。",
+    "mistake": "❌ おかげで を無理に使います。\n✅ 文脈に合うときだけ『おかげで』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola おかげで.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-20",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "たとえ〜ても",
+    "explain": "Pola たとえ〜ても dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『たとえ〜ても』はJLPT N3でよく練習します。",
+    "mistake": "❌ たとえ〜ても を無理に使います。\n✅ 文脈に合うときだけ『たとえ〜ても』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola たとえ〜ても.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-21",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ほど",
+    "explain": "Pola ほど dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ほど』はJLPT N3でよく練習します。",
+    "mistake": "❌ ほど を無理に使います。\n✅ 文脈に合うときだけ『ほど』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ほど.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-22",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "くらい",
+    "explain": "Pola くらい dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『くらい』はJLPT N3でよく練習します。",
+    "mistake": "❌ くらい を無理に使います。\n✅ 文脈に合うときだけ『くらい』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola くらい.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-23",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ついでに",
+    "explain": "Pola ついでに dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ついでに』はJLPT N3でよく練習します。",
+    "mistake": "❌ ついでに を無理に使います。\n✅ 文脈に合うときだけ『ついでに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ついでに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-24",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "うちに",
+    "explain": "Pola うちに dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『うちに』はJLPT N3でよく練習します。",
+    "mistake": "❌ うちに を無理に使います。\n✅ 文脈に合うときだけ『うちに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola うちに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-25",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "たびに",
+    "explain": "Pola たびに dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『たびに』はJLPT N3でよく練習します。",
+    "mistake": "❌ たびに を無理に使います。\n✅ 文脈に合うときだけ『たびに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola たびに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-26",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "まま",
+    "explain": "Pola まま dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『まま』はJLPT N3でよく練習します。",
+    "mistake": "❌ まま を無理に使います。\n✅ 文脈に合うときだけ『まま』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola まま.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-27",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "しかない",
+    "explain": "Pola しかない dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『しかない』はJLPT N3でよく練習します。",
+    "mistake": "❌ しかない を無理に使います。\n✅ 文脈に合うときだけ『しかない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola しかない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-28",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "られる",
+    "explain": "Pola られる dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『られる』はJLPT N3でよく練習します。",
+    "mistake": "❌ られる を無理に使います。\n✅ 文脈に合うときだけ『られる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola られる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-29",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "させる",
+    "explain": "Pola させる dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『させる』はJLPT N3でよく練習します。",
+    "mistake": "❌ させる を無理に使います。\n✅ 文脈に合うときだけ『させる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola させる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-30",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "させられる",
+    "explain": "Pola させられる dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『させられる』はJLPT N3でよく練習します。",
+    "mistake": "❌ させられる を無理に使います。\n✅ 文脈に合うときだけ『させられる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola させられる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-31",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ようとする",
+    "explain": "Pola ようとする dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ようとする』はJLPT N3でよく練習します。",
+    "mistake": "❌ ようとする を無理に使います。\n✅ 文脈に合うときだけ『ようとする』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ようとする.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-32",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ことはない",
+    "explain": "Pola ことはない dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ことはない』はJLPT N3でよく練習します。",
+    "mistake": "❌ ことはない を無理に使います。\n✅ 文脈に合うときだけ『ことはない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ことはない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-33",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "わけがない",
+    "explain": "Pola わけがない dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『わけがない』はJLPT N3でよく練習します。",
+    "mistake": "❌ わけがない を無理に使います。\n✅ 文脈に合うときだけ『わけがない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola わけがない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-34",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ものだ",
+    "explain": "Pola ものだ dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ものだ』はJLPT N3でよく練習します。",
+    "mistake": "❌ ものだ を無理に使います。\n✅ 文脈に合うときだけ『ものだ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ものだ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-35",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ものか",
+    "explain": "Pola ものか dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ものか』はJLPT N3でよく練習します。",
+    "mistake": "❌ ものか を無理に使います。\n✅ 文脈に合うときだけ『ものか』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ものか.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-36",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "に違いない",
+    "explain": "Pola に違いない dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に違いない』はJLPT N3でよく練習します。",
+    "mistake": "❌ に違いない を無理に使います。\n✅ 文脈に合うときだけ『に違いない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に違いない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-37",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "かもしれない",
+    "explain": "Pola かもしれない dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『かもしれない』はJLPT N3でよく練習します。",
+    "mistake": "❌ かもしれない を無理に使います。\n✅ 文脈に合うときだけ『かもしれない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola かもしれない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-38",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "といえば",
+    "explain": "Pola といえば dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『といえば』はJLPT N3でよく練習します。",
+    "mistake": "❌ といえば を無理に使います。\n✅ 文脈に合うときだけ『といえば』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola といえば.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-39",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "というと",
+    "explain": "Pola というと dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『というと』はJLPT N3でよく練習します。",
+    "mistake": "❌ というと を無理に使います。\n✅ 文脈に合うときだけ『というと』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola というと.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-40",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "つまり",
+    "explain": "Pola つまり dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『つまり』はJLPT N3でよく練習します。",
+    "mistake": "❌ つまり を無理に使います。\n✅ 文脈に合うときだけ『つまり』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola つまり.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-41",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "そのため",
+    "explain": "Pola そのため dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『そのため』はJLPT N3でよく練習します。",
+    "mistake": "❌ そのため を無理に使います。\n✅ 文脈に合うときだけ『そのため』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola そのため.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-42",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "一方",
+    "explain": "Pola 一方 dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『一方』はJLPT N3でよく練習します。",
+    "mistake": "❌ 一方 を無理に使います。\n✅ 文脈に合うときだけ『一方』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 一方.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-43",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "さらに",
+    "explain": "Pola さらに dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『さらに』はJLPT N3でよく練習します。",
+    "mistake": "❌ さらに を無理に使います。\n✅ 文脈に合うときだけ『さらに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola さらに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-44",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "なお",
+    "explain": "Pola なお dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『なお』はJLPT N3でよく練習します。",
+    "mistake": "❌ なお を無理に使います。\n✅ 文脈に合うときだけ『なお』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola なお.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-45",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ただし",
+    "explain": "Pola ただし dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ただし』はJLPT N3でよく練習します。",
+    "mistake": "❌ ただし を無理に使います。\n✅ 文脈に合うときだけ『ただし』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ただし.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-46",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "とは",
+    "explain": "Pola とは dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『とは』はJLPT N3でよく練習します。",
+    "mistake": "❌ とは を無理に使います。\n✅ 文脈に合うときだけ『とは』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola とは.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-47",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "によると",
+    "explain": "Pola によると dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『によると』はJLPT N3でよく練習します。",
+    "mistake": "❌ によると を無理に使います。\n✅ 文脈に合うときだけ『によると』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola によると.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-48",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "において",
+    "explain": "Pola において dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『において』はJLPT N3でよく練習します。",
+    "mistake": "❌ において を無理に使います。\n✅ 文脈に合うときだけ『において』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola において.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-49",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "を中心に",
+    "explain": "Pola を中心に dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『を中心に』はJLPT N3でよく練習します。",
+    "mistake": "❌ を中心に を無理に使います。\n✅ 文脈に合うときだけ『を中心に』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola を中心に.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n3-50",
+    "language": "Japanese",
+    "level": "JLPT N3",
+    "topic": "ほど〜ない",
+    "explain": "Pola ほど〜ない dipakai dalam latihan JLPT N3. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ほど〜ない』はJLPT N3でよく練習します。",
+    "mistake": "❌ ほど〜ない を無理に使います。\n✅ 文脈に合うときだけ『ほど〜ない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ほど〜ない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-01",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "わけにはいかない",
+    "explain": "Pola わけにはいかない dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『わけにはいかない』はJLPT N2でよく練習します。",
+    "mistake": "❌ わけにはいかない を無理に使います。\n✅ 文脈に合うときだけ『わけにはいかない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola わけにはいかない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-02",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "ものだ",
+    "explain": "Pola ものだ dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ものだ』はJLPT N2でよく練習します。",
+    "mistake": "❌ ものだ を無理に使います。\n✅ 文脈に合うときだけ『ものだ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ものだ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-03",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "ものではない",
+    "explain": "Pola ものではない dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ものではない』はJLPT N2でよく練習します。",
+    "mistake": "❌ ものではない を無理に使います。\n✅ 文脈に合うときだけ『ものではない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ものではない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-04",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "に違いない",
+    "explain": "Pola に違いない dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に違いない』はJLPT N2でよく練習します。",
+    "mistake": "❌ に違いない を無理に使います。\n✅ 文脈に合うときだけ『に違いない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に違いない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-05",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "に決まっている",
+    "explain": "Pola に決まっている dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に決まっている』はJLPT N2でよく練習します。",
+    "mistake": "❌ に決まっている を無理に使います。\n✅ 文脈に合うときだけ『に決まっている』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に決まっている.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-06",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "とは限らない",
+    "explain": "Pola とは限らない dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『とは限らない』はJLPT N2でよく練習します。",
+    "mistake": "❌ とは限らない を無理に使います。\n✅ 文脈に合うときだけ『とは限らない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola とは限らない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-07",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "というものだ",
+    "explain": "Pola というものだ dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『というものだ』はJLPT N2でよく練習します。",
+    "mistake": "❌ というものだ を無理に使います。\n✅ 文脈に合うときだけ『というものだ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola というものだ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-08",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "にあたって",
+    "explain": "Pola にあたって dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にあたって』はJLPT N2でよく練習します。",
+    "mistake": "❌ にあたって を無理に使います。\n✅ 文脈に合うときだけ『にあたって』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にあたって.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-09",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "に際して",
+    "explain": "Pola に際して dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に際して』はJLPT N2でよく練習します。",
+    "mistake": "❌ に際して を無理に使います。\n✅ 文脈に合うときだけ『に際して』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に際して.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-10",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "に応じて",
+    "explain": "Pola に応じて dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に応じて』はJLPT N2でよく練習します。",
+    "mistake": "❌ に応じて を無理に使います。\n✅ 文脈に合うときだけ『に応じて』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に応じて.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-11",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "に基づいて",
+    "explain": "Pola に基づいて dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に基づいて』はJLPT N2でよく練習します。",
+    "mistake": "❌ に基づいて を無理に使います。\n✅ 文脈に合うときだけ『に基づいて』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に基づいて.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-12",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "を通して",
+    "explain": "Pola を通して dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『を通して』はJLPT N2でよく練習します。",
+    "mistake": "❌ を通して を無理に使います。\n✅ 文脈に合うときだけ『を通して』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola を通して.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-13",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "を通じて",
+    "explain": "Pola を通じて dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『を通じて』はJLPT N2でよく練習します。",
+    "mistake": "❌ を通じて を無理に使います。\n✅ 文脈に合うときだけ『を通じて』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola を通じて.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-14",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "をめぐって",
+    "explain": "Pola をめぐって dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『をめぐって』はJLPT N2でよく練習します。",
+    "mistake": "❌ をめぐって を無理に使います。\n✅ 文脈に合うときだけ『をめぐって』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola をめぐって.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-15",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "を問わず",
+    "explain": "Pola を問わず dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『を問わず』はJLPT N2でよく練習します。",
+    "mistake": "❌ を問わず を無理に使います。\n✅ 文脈に合うときだけ『を問わず』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola を問わず.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-16",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "にかかわらず",
+    "explain": "Pola にかかわらず dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にかかわらず』はJLPT N2でよく練習します。",
+    "mistake": "❌ にかかわらず を無理に使います。\n✅ 文脈に合うときだけ『にかかわらず』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にかかわらず.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-17",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "反面",
+    "explain": "Pola 反面 dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『反面』はJLPT N2でよく練習します。",
+    "mistake": "❌ 反面 を無理に使います。\n✅ 文脈に合うときだけ『反面』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 反面.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-18",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "一方で",
+    "explain": "Pola 一方で dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『一方で』はJLPT N2でよく練習します。",
+    "mistake": "❌ 一方で を無理に使います。\n✅ 文脈に合うときだけ『一方で』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 一方で.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-19",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "ものの",
+    "explain": "Pola ものの dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ものの』はJLPT N2でよく練習します。",
+    "mistake": "❌ ものの を無理に使います。\n✅ 文脈に合うときだけ『ものの』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ものの.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-20",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "ながらも",
+    "explain": "Pola ながらも dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ながらも』はJLPT N2でよく練習します。",
+    "mistake": "❌ ながらも を無理に使います。\n✅ 文脈に合うときだけ『ながらも』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ながらも.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-21",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "つつ",
+    "explain": "Pola つつ dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『つつ』はJLPT N2でよく練習します。",
+    "mistake": "❌ つつ を無理に使います。\n✅ 文脈に合うときだけ『つつ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola つつ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-22",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "ところを見ると",
+    "explain": "Pola ところを見ると dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ところを見ると』はJLPT N2でよく練習します。",
+    "mistake": "❌ ところを見ると を無理に使います。\n✅ 文脈に合うときだけ『ところを見ると』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ところを見ると.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-23",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "かねない",
+    "explain": "Pola かねない dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『かねない』はJLPT N2でよく練習します。",
+    "mistake": "❌ かねない を無理に使います。\n✅ 文脈に合うときだけ『かねない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola かねない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-24",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "かねる",
+    "explain": "Pola かねる dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『かねる』はJLPT N2でよく練習します。",
+    "mistake": "❌ かねる を無理に使います。\n✅ 文脈に合うときだけ『かねる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola かねる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-25",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "得る/得ない",
+    "explain": "Pola 得る/得ない dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『得る/得ない』はJLPT N2でよく練習します。",
+    "mistake": "❌ 得る/得ない を無理に使います。\n✅ 文脈に合うときだけ『得る/得ない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 得る/得ない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-26",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "ざるを得ない",
+    "explain": "Pola ざるを得ない dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ざるを得ない』はJLPT N2でよく練習します。",
+    "mistake": "❌ ざるを得ない を無理に使います。\n✅ 文脈に合うときだけ『ざるを得ない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ざるを得ない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-27",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "だけあって",
+    "explain": "Pola だけあって dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『だけあって』はJLPT N2でよく練習します。",
+    "mistake": "❌ だけあって を無理に使います。\n✅ 文脈に合うときだけ『だけあって』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola だけあって.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-28",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "だけに",
+    "explain": "Pola だけに dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『だけに』はJLPT N2でよく練習します。",
+    "mistake": "❌ だけに を無理に使います。\n✅ 文脈に合うときだけ『だけに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola だけに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-29",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "に伴って",
+    "explain": "Pola に伴って dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に伴って』はJLPT N2でよく練習します。",
+    "mistake": "❌ に伴って を無理に使います。\n✅ 文脈に合うときだけ『に伴って』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に伴って.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-30",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "につれて",
+    "explain": "Pola につれて dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『につれて』はJLPT N2でよく練習します。",
+    "mistake": "❌ につれて を無理に使います。\n✅ 文脈に合うときだけ『につれて』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola につれて.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-31",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "にしたがって",
+    "explain": "Pola にしたがって dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にしたがって』はJLPT N2でよく練習します。",
+    "mistake": "❌ にしたがって を無理に使います。\n✅ 文脈に合うときだけ『にしたがって』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にしたがって.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-32",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "にすぎない",
+    "explain": "Pola にすぎない dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にすぎない』はJLPT N2でよく練習します。",
+    "mistake": "❌ にすぎない を無理に使います。\n✅ 文脈に合うときだけ『にすぎない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にすぎない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-33",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "にほかならない",
+    "explain": "Pola にほかならない dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にほかならない』はJLPT N2でよく練習します。",
+    "mistake": "❌ にほかならない を無理に使います。\n✅ 文脈に合うときだけ『にほかならない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にほかならない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-34",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "どころか",
+    "explain": "Pola どころか dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『どころか』はJLPT N2でよく練習します。",
+    "mistake": "❌ どころか を無理に使います。\n✅ 文脈に合うときだけ『どころか』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola どころか.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-35",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "ばかりか",
+    "explain": "Pola ばかりか dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ばかりか』はJLPT N2でよく練習します。",
+    "mistake": "❌ ばかりか を無理に使います。\n✅ 文脈に合うときだけ『ばかりか』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ばかりか.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-36",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "のみならず",
+    "explain": "Pola のみならず dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『のみならず』はJLPT N2でよく練習します。",
+    "mistake": "❌ のみならず を無理に使います。\n✅ 文脈に合うときだけ『のみならず』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola のみならず.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-37",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "上で",
+    "explain": "Pola 上で dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『上で』はJLPT N2でよく練習します。",
+    "mistake": "❌ 上で を無理に使います。\n✅ 文脈に合うときだけ『上で』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 上で.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-38",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "上に",
+    "explain": "Pola 上に dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『上に』はJLPT N2でよく練習します。",
+    "mistake": "❌ 上に を無理に使います。\n✅ 文脈に合うときだけ『上に』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 上に.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-39",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "末に",
+    "explain": "Pola 末に dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『末に』はJLPT N2でよく練習します。",
+    "mistake": "❌ 末に を無理に使います。\n✅ 文脈に合うときだけ『末に』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 末に.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-40",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "あまり",
+    "explain": "Pola あまり dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『あまり』はJLPT N2でよく練習します。",
+    "mistake": "❌ あまり を無理に使います。\n✅ 文脈に合うときだけ『あまり』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola あまり.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-41",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "次第",
+    "explain": "Pola 次第 dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『次第』はJLPT N2でよく練習します。",
+    "mistake": "❌ 次第 を無理に使います。\n✅ 文脈に合うときだけ『次第』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 次第.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-42",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "次第で",
+    "explain": "Pola 次第で dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『次第で』はJLPT N2でよく練習します。",
+    "mistake": "❌ 次第で を無理に使います。\n✅ 文脈に合うときだけ『次第で』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 次第で.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-43",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "に限り",
+    "explain": "Pola に限り dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に限り』はJLPT N2でよく練習します。",
+    "mistake": "❌ に限り を無理に使います。\n✅ 文脈に合うときだけ『に限り』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に限り.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-44",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "に限って",
+    "explain": "Pola に限って dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に限って』はJLPT N2でよく練習します。",
+    "mistake": "❌ に限って を無理に使います。\n✅ 文脈に合うときだけ『に限って』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に限って.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-45",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "に限らず",
+    "explain": "Pola に限らず dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に限らず』はJLPT N2でよく練習します。",
+    "mistake": "❌ に限らず を無理に使います。\n✅ 文脈に合うときだけ『に限らず』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に限らず.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-46",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "をきっかけに",
+    "explain": "Pola をきっかけに dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『をきっかけに』はJLPT N2でよく練習します。",
+    "mistake": "❌ をきっかけに を無理に使います。\n✅ 文脈に合うときだけ『をきっかけに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola をきっかけに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-47",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "を契機に",
+    "explain": "Pola を契機に dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『を契機に』はJLPT N2でよく練習します。",
+    "mistake": "❌ を契機に を無理に使います。\n✅ 文脈に合うときだけ『を契機に』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola を契機に.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-48",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "ものだから",
+    "explain": "Pola ものだから dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ものだから』はJLPT N2でよく練習します。",
+    "mistake": "❌ ものだから を無理に使います。\n✅ 文脈に合うときだけ『ものだから』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ものだから.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-49",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "からには",
+    "explain": "Pola からには dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『からには』はJLPT N2でよく練習します。",
+    "mistake": "❌ からには を無理に使います。\n✅ 文脈に合うときだけ『からには』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola からには.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n2-50",
+    "language": "Japanese",
+    "level": "JLPT N2",
+    "topic": "以上は",
+    "explain": "Pola 以上は dipakai dalam latihan JLPT N2. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『以上は』はJLPT N2でよく練習します。",
+    "mistake": "❌ 以上は を無理に使います。\n✅ 文脈に合うときだけ『以上は』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 以上は.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-01",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "に至るまで",
+    "explain": "Pola に至るまで dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に至るまで』はJLPT N1でよく練習します。",
+    "mistake": "❌ に至るまで を無理に使います。\n✅ 文脈に合うときだけ『に至るまで』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に至るまで.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-02",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "ずにはおかない",
+    "explain": "Pola ずにはおかない dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ずにはおかない』はJLPT N1でよく練習します。",
+    "mistake": "❌ ずにはおかない を無理に使います。\n✅ 文脈に合うときだけ『ずにはおかない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ずにはおかない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-03",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "に足る",
+    "explain": "Pola に足る dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に足る』はJLPT N1でよく練習します。",
+    "mistake": "❌ に足る を無理に使います。\n✅ 文脈に合うときだけ『に足る』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に足る.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-04",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "なくしては",
+    "explain": "Pola なくしては dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『なくしては』はJLPT N1でよく練習します。",
+    "mistake": "❌ なくしては を無理に使います。\n✅ 文脈に合うときだけ『なくしては』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola なくしては.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-05",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "といったところだ",
+    "explain": "Pola といったところだ dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『といったところだ』はJLPT N1でよく練習します。",
+    "mistake": "❌ といったところだ を無理に使います。\n✅ 文脈に合うときだけ『といったところだ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola といったところだ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-06",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "いかんによって",
+    "explain": "Pola いかんによって dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『いかんによって』はJLPT N1でよく練習します。",
+    "mistake": "❌ いかんによって を無理に使います。\n✅ 文脈に合うときだけ『いかんによって』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola いかんによって.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-07",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "まみれ",
+    "explain": "Pola まみれ dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『まみれ』はJLPT N1でよく練習します。",
+    "mistake": "❌ まみれ を無理に使います。\n✅ 文脈に合うときだけ『まみれ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola まみれ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-08",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "きらいがある",
+    "explain": "Pola きらいがある dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『きらいがある』はJLPT N1でよく練習します。",
+    "mistake": "❌ きらいがある を無理に使います。\n✅ 文脈に合うときだけ『きらいがある』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola きらいがある.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-09",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "ものを",
+    "explain": "Pola ものを dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ものを』はJLPT N1でよく練習します。",
+    "mistake": "❌ ものを を無理に使います。\n✅ 文脈に合うときだけ『ものを』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ものを.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-10",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "が最後",
+    "explain": "Pola が最後 dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『が最後』はJLPT N1でよく練習します。",
+    "mistake": "❌ が最後 を無理に使います。\n✅ 文脈に合うときだけ『が最後』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola が最後.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-11",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "ただではすまない",
+    "explain": "Pola ただではすまない dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ただではすまない』はJLPT N1でよく練習します。",
+    "mistake": "❌ ただではすまない を無理に使います。\n✅ 文脈に合うときだけ『ただではすまない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ただではすまない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-12",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "とばかりに",
+    "explain": "Pola とばかりに dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『とばかりに』はJLPT N1でよく練習します。",
+    "mistake": "❌ とばかりに を無理に使います。\n✅ 文脈に合うときだけ『とばかりに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola とばかりに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-13",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "に堪えない",
+    "explain": "Pola に堪えない dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に堪えない』はJLPT N1でよく練習します。",
+    "mistake": "❌ に堪えない を無理に使います。\n✅ 文脈に合うときだけ『に堪えない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に堪えない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-14",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "に忍びない",
+    "explain": "Pola に忍びない dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に忍びない』はJLPT N1でよく練習します。",
+    "mistake": "❌ に忍びない を無理に使います。\n✅ 文脈に合うときだけ『に忍びない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に忍びない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-15",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "極まりない",
+    "explain": "Pola 極まりない dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『極まりない』はJLPT N1でよく練習します。",
+    "mistake": "❌ 極まりない を無理に使います。\n✅ 文脈に合うときだけ『極まりない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola 極まりない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-16",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "とあって",
+    "explain": "Pola とあって dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『とあって』はJLPT N1でよく練習します。",
+    "mistake": "❌ とあって を無理に使います。\n✅ 文脈に合うときだけ『とあって』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola とあって.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-17",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "とあれば",
+    "explain": "Pola とあれば dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『とあれば』はJLPT N1でよく練習します。",
+    "mistake": "❌ とあれば を無理に使います。\n✅ 文脈に合うときだけ『とあれば』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola とあれば.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-18",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "を皮切りに",
+    "explain": "Pola を皮切りに dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『を皮切りに』はJLPT N1でよく練習します。",
+    "mistake": "❌ を皮切りに を無理に使います。\n✅ 文脈に合うときだけ『を皮切りに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola を皮切りに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-19",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "をもって",
+    "explain": "Pola をもって dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『をもって』はJLPT N1でよく練習します。",
+    "mistake": "❌ をもって を無理に使います。\n✅ 文脈に合うときだけ『をもって』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola をもって.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-20",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "に即して",
+    "explain": "Pola に即して dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に即して』はJLPT N1でよく練習します。",
+    "mistake": "❌ に即して を無理に使います。\n✅ 文脈に合うときだけ『に即して』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に即して.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-21",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "べく",
+    "explain": "Pola べく dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『べく』はJLPT N1でよく練習します。",
+    "mistake": "❌ べく を無理に使います。\n✅ 文脈に合うときだけ『べく』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola べく.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-22",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "ずくめ",
+    "explain": "Pola ずくめ dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ずくめ』はJLPT N1でよく練習します。",
+    "mistake": "❌ ずくめ を無理に使います。\n✅ 文脈に合うときだけ『ずくめ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ずくめ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-23",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "まじき",
+    "explain": "Pola まじき dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『まじき』はJLPT N1でよく練習します。",
+    "mistake": "❌ まじき を無理に使います。\n✅ 文脈に合うときだけ『まじき』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola まじき.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-24",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "ともなく",
+    "explain": "Pola ともなく dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ともなく』はJLPT N1でよく練習します。",
+    "mistake": "❌ ともなく を無理に使います。\n✅ 文脈に合うときだけ『ともなく』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ともなく.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-25",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "ともあろう",
+    "explain": "Pola ともあろう dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ともあろう』はJLPT N1でよく練習します。",
+    "mistake": "❌ ともあろう を無理に使います。\n✅ 文脈に合うときだけ『ともあろう』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ともあろう.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-26",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "でなくてなんだろう",
+    "explain": "Pola でなくてなんだろう dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『でなくてなんだろう』はJLPT N1でよく練習します。",
+    "mistake": "❌ でなくてなんだろう を無理に使います。\n✅ 文脈に合うときだけ『でなくてなんだろう』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola でなくてなんだろう.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-27",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "をおいて",
+    "explain": "Pola をおいて dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『をおいて』はJLPT N1でよく練習します。",
+    "mistake": "❌ をおいて を無理に使います。\n✅ 文脈に合うときだけ『をおいて』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola をおいて.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-28",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "にかたくない",
+    "explain": "Pola にかたくない dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にかたくない』はJLPT N1でよく練習します。",
+    "mistake": "❌ にかたくない を無理に使います。\n✅ 文脈に合うときだけ『にかたくない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にかたくない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-29",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "にたえる",
+    "explain": "Pola にたえる dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にたえる』はJLPT N1でよく練習します。",
+    "mistake": "❌ にたえる を無理に使います。\n✅ 文脈に合うときだけ『にたえる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にたえる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-30",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "にたえない",
+    "explain": "Pola にたえない dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にたえない』はJLPT N1でよく練習します。",
+    "mistake": "❌ にたえない を無理に使います。\n✅ 文脈に合うときだけ『にたえない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にたえない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-31",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "や否や",
+    "explain": "Pola や否や dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『や否や』はJLPT N1でよく練習します。",
+    "mistake": "❌ や否や を無理に使います。\n✅ 文脈に合うときだけ『や否や』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola や否や.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-32",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "そばから",
+    "explain": "Pola そばから dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『そばから』はJLPT N1でよく練習します。",
+    "mistake": "❌ そばから を無理に使います。\n✅ 文脈に合うときだけ『そばから』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola そばから.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-33",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "なり",
+    "explain": "Pola なり dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『なり』はJLPT N1でよく練習します。",
+    "mistake": "❌ なり を無理に使います。\n✅ 文脈に合うときだけ『なり』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola なり.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-34",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "がてら",
+    "explain": "Pola がてら dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『がてら』はJLPT N1でよく練習します。",
+    "mistake": "❌ がてら を無理に使います。\n✅ 文脈に合うときだけ『がてら』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola がてら.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-35",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "かたがた",
+    "explain": "Pola かたがた dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『かたがた』はJLPT N1でよく練習します。",
+    "mistake": "❌ かたがた を無理に使います。\n✅ 文脈に合うときだけ『かたがた』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola かたがた.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-36",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "つ〜つ",
+    "explain": "Pola つ〜つ dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『つ〜つ』はJLPT N1でよく練習します。",
+    "mistake": "❌ つ〜つ を無理に使います。\n✅ 文脈に合うときだけ『つ〜つ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola つ〜つ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-37",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "ともすると",
+    "explain": "Pola ともすると dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ともすると』はJLPT N1でよく練習します。",
+    "mistake": "❌ ともすると を無理に使います。\n✅ 文脈に合うときだけ『ともすると』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ともすると.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-38",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "ことなしに",
+    "explain": "Pola ことなしに dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ことなしに』はJLPT N1でよく練習します。",
+    "mistake": "❌ ことなしに を無理に使います。\n✅ 文脈に合うときだけ『ことなしに』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ことなしに.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-39",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "ずにはすまない",
+    "explain": "Pola ずにはすまない dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『ずにはすまない』はJLPT N1でよく練習します。",
+    "mistake": "❌ ずにはすまない を無理に使います。\n✅ 文脈に合うときだけ『ずにはすまない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola ずにはすまない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-40",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "までもない",
+    "explain": "Pola までもない dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『までもない』はJLPT N1でよく練習します。",
+    "mistake": "❌ までもない を無理に使います。\n✅ 文脈に合うときだけ『までもない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola までもない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-41",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "にとどまらず",
+    "explain": "Pola にとどまらず dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にとどまらず』はJLPT N1でよく練習します。",
+    "mistake": "❌ にとどまらず を無理に使います。\n✅ 文脈に合うときだけ『にとどまらず』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にとどまらず.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-42",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "を余儀なくされる",
+    "explain": "Pola を余儀なくされる dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『を余儀なくされる』はJLPT N1でよく練習します。",
+    "mistake": "❌ を余儀なくされる を無理に使います。\n✅ 文脈に合うときだけ『を余儀なくされる』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola を余儀なくされる.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-43",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "を禁じ得ない",
+    "explain": "Pola を禁じ得ない dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『を禁じ得ない』はJLPT N1でよく練習します。",
+    "mistake": "❌ を禁じ得ない を無理に使います。\n✅ 文脈に合うときだけ『を禁じ得ない』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola を禁じ得ない.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-44",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "にひきかえ",
+    "explain": "Pola にひきかえ dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にひきかえ』はJLPT N1でよく練習します。",
+    "mistake": "❌ にひきかえ を無理に使います。\n✅ 文脈に合うときだけ『にひきかえ』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にひきかえ.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-45",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "にもまして",
+    "explain": "Pola にもまして dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『にもまして』はJLPT N1でよく練習します。",
+    "mistake": "❌ にもまして を無理に使います。\n✅ 文脈に合うときだけ『にもまして』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola にもまして.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-46",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "いかんでは",
+    "explain": "Pola いかんでは dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『いかんでは』はJLPT N1でよく練習します。",
+    "mistake": "❌ いかんでは を無理に使います。\n✅ 文脈に合うときだけ『いかんでは』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola いかんでは.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-47",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "と相まって",
+    "explain": "Pola と相まって dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『と相まって』はJLPT N1でよく練習します。",
+    "mistake": "❌ と相まって を無理に使います。\n✅ 文脈に合うときだけ『と相まって』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola と相まって.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-48",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "に照らして",
+    "explain": "Pola に照らして dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『に照らして』はJLPT N1でよく練習します。",
+    "mistake": "❌ に照らして を無理に使います。\n✅ 文脈に合うときだけ『に照らして』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola に照らして.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-49",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "を踏まえて",
+    "explain": "Pola を踏まえて dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『を踏まえて』はJLPT N1でよく練習します。",
+    "mistake": "❌ を踏まえて を無理に使います。\n✅ 文脈に合うときだけ『を踏まえて』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola を踏まえて.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  },
+  {
+    "id": "jp-g-n1-50",
+    "language": "Japanese",
+    "level": "JLPT N1",
+    "topic": "をものともせず",
+    "explain": "Pola をものともせず dipakai dalam latihan JLPT N1. Pahami fungsi, partikel, dan posisi kata sebelum menghafal contoh.",
+    "example": "この文型『をものともせず』はJLPT N1でよく練習します。",
+    "mistake": "❌ をものともせず を無理に使います。\n✅ 文脈に合うときだけ『をものともせず』を使います。",
+    "exercise": [
+      {
+        "q": "Pilih fungsi paling dekat dari pola をものともせず.",
+        "options": [
+          "menyambung/melengkapi makna kalimat",
+          "nama benda saja",
+          "angka saja",
+          "salam saja"
+        ],
+        "answer": "menyambung/melengkapi makna kalimat"
+      }
+    ]
+  }
+]

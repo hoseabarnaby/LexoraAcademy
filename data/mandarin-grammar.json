@@ -1,0 +1,114 @@
+[
+  {
+    "id": "shi-sentence",
+    "level": "HSK 1",
+    "topic": "是 Sentence",
+    "simple": "是 berarti 'adalah' dan dipakai untuk menyatakan identitas/status.",
+    "formula": "Subject + 是 + Noun",
+    "usage": ["Identity", "Profession", "Status"],
+    "example": "我是学生。\nWǒ shì xuésheng.\nSaya adalah siswa.",
+    "mistake": "我学生。❌\n我是学生。✅",
+    "ieltsTip": "Gunakan untuk memperkenalkan diri dalam Mandarin dasar.",
+    "exercise": [
+      {"q":"Saya adalah guru = 我___老师。","options":["是","在","有"],"answer":"是"}
+    ]
+  },
+  {
+    "id": "ma-question",
+    "level": "HSK 1",
+    "topic": "吗 Question",
+    "simple": "吗 diletakkan di akhir kalimat untuk membuat pertanyaan yes/no.",
+    "formula": "Statement + 吗？",
+    "usage": ["Yes/no question"],
+    "example": "你是学生吗？\nNǐ shì xuésheng ma?\nApakah kamu siswa?",
+    "mistake": "吗你是学生？❌\n你是学生吗？✅",
+    "ieltsTip": "Ini pola dasar untuk membuat pertanyaan sederhana.",
+    "exercise": [
+      {"q":"Kamu baik? = 你好吗___","options":["？","。","，"],"answer":"？"}
+    ]
+  },
+  {
+    "id": "you-sentence",
+    "level": "HSK 1",
+    "topic": "有 Sentence",
+    "simple": "有 berarti punya atau ada.",
+    "formula": "Subject + 有 + Object",
+    "usage": ["Possession", "Existence"],
+    "example": "我有一本书。\nWǒ yǒu yì běn shū.\nSaya punya sebuah buku.",
+    "mistake": "我是一书。❌\n我有一本书。✅",
+    "ieltsTip": "Gunakan untuk menyatakan kepemilikan.",
+    "exercise": [
+      {"q":"Saya punya buku = 我___书。","options":["有","是","在"],"answer":"有"}
+    ]
+  },
+  {
+    "id": "zai-location",
+    "level": "HSK 1",
+    "topic": "在 for Location",
+    "simple": "在 menunjukkan lokasi atau keberadaan.",
+    "formula": "Subject + 在 + Place",
+    "usage": ["Location", "Being somewhere"],
+    "example": "我在学校。\nWǒ zài xuéxiào.\nSaya berada di sekolah.",
+    "mistake": "我学校。❌\n我在学校。✅",
+    "ieltsTip": "Pola ini penting untuk menjelaskan tempat.",
+    "exercise": [
+      {"q":"Saya di rumah = 我___家。","options":["在","是","吗"],"answer":"在"}
+    ]
+  },
+  {
+    "id": "yinwei-suoyi",
+    "level": "HSK 2",
+    "topic": "因为...所以...",
+    "simple": "Pola ini berarti karena... jadi....",
+    "formula": "因为 + reason, 所以 + result",
+    "usage": ["Cause and effect"],
+    "example": "因为下雨，所以我不去。\nYīnwèi xià yǔ, suǒyǐ wǒ bú qù.\nKarena hujan, jadi saya tidak pergi.",
+    "mistake": "所以下雨，因为我不去。❌\n因为下雨，所以我不去。✅",
+    "ieltsTip": "Bagus untuk membangun kalimat sebab-akibat Mandarin.",
+    "exercise": [
+      {"q":"___我很忙，所以我不去。","options":["因为","但是","吗"],"answer":"因为"}
+    ]
+  },
+  {
+    "id": "zhengzai",
+    "level": "HSK 2",
+    "topic": "正在",
+    "simple": "正在 berarti sedang melakukan sesuatu.",
+    "formula": "Subject + 正在 + Verb",
+    "usage": ["Action happening now"],
+    "example": "我正在学习中文。\nWǒ zhèngzài xuéxí Zhōngwén.\nSaya sedang belajar Mandarin.",
+    "mistake": "我正在是学生。❌\n我正在学习。✅",
+    "ieltsTip": "Mirip present continuous dalam English.",
+    "exercise": [
+      {"q":"Saya sedang belajar = 我___学习。","options":["正在","是","有"],"answer":"正在"}
+    ]
+  },
+  {
+    "id": "ruguo-jiu",
+    "level": "HSK 3",
+    "topic": "如果...就...",
+    "simple": "Pola ini berarti jika... maka....",
+    "formula": "如果 + condition, 就 + result",
+    "usage": ["Condition", "Result"],
+    "example": "如果你有时间，就来我家。\nRúguǒ nǐ yǒu shíjiān, jiù lái wǒ jiā.\nJika kamu punya waktu, datanglah ke rumahku.",
+    "mistake": "就你有时间，如果来我家。❌\n如果你有时间，就来我家。✅",
+    "ieltsTip": "Mirip conditional sentence dalam English.",
+    "exercise": [
+      {"q":"___你努力学习，就会进步。","options":["如果","因为","但是"],"answer":"如果"}
+    ]
+  },
+  {
+    "id": "yuelaiyue",
+    "level": "HSK 3",
+    "topic": "越来越",
+    "simple": "越来越 berarti semakin lama semakin.",
+    "formula": "Subject + 越来越 + adjective/verb",
+    "usage": ["Gradual change"],
+    "example": "我的中文越来越好。\nWǒ de Zhōngwén yuè lái yuè hǎo.\nBahasa Mandarin saya semakin baik.",
+    "mistake": "我的中文越好来越。❌\n我的中文越来越好。✅",
+    "ieltsTip": "Berguna untuk menjelaskan perkembangan kemampuan.",
+    "exercise": [
+      {"q":"Semakin baik = ___好","options":["越来越","因为","正在"],"answer":"越来越"}
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+(() => {
+  const $ = s => document.querySelector(s);
+  const $$ = s => [...document.querySelectorAll(s)];
+  const KEY = 'lexora_universe_v1';
+  const defaults = {xp:0,coins:120,level:1,streak:1,friendship:{lexi:2,byte:1,watson:1,emma:1,lin:1,tanaka:1,anna:1,error:0},missions:{grammar:0,vocab:0,listening:0,speaking:0},cases:0,bossHp:50,lastVisit:'',petStage:0};
+  let u = load();
+  function load(){try{return {...defaults,...JSON.parse(localStorage.getItem(KEY)||'{}')}}catch{return {...defaults}}}
+  function save(){localStorage.setItem(KEY,JSON.stringify(u)); sync();}
+  function addXP(n,label='Mission'){u.xp+=n;u.coins+=Math.max(2,Math.round(n/5));u.level=Math.floor(u.xp/100)+1;save();toast(`+${n} XP · ${label}`)}
+  const chars={
+    lexi:{emoji:'🦉',name:'Lexi',role:'Partner belajar',lines:['Selamat datang! Hari ini kita selesaikan satu misi kecil dulu ya.','Aku sudah menyiapkan rute belajar yang paling cocok untukmu.','Sedikit progress setiap hari tetap membuatmu semakin dekat dengan tujuanmu!']},
+    byte:{emoji:'🤖',name:'Byte',role:'AI Analyst',lines:['Aku menemukan pola: latihan singkat tapi rutin memberi hasil terbaik.','Mari analisis kemampuanmu dan pilih latihan berikutnya.','Data belajarmu terlihat semakin bagus!']},
+    watson:{emoji:'🕵️',name:'Chief Watson',role:'Grammar Detective',lines:['Detective, ada grammar crime baru!','Cari kesalahan tersembunyi sebelum artikel diterbitkan.','Bukti yang kuat membutuhkan alasan grammar yang tepat.']},
+    emma:{emoji:'👩‍🎓',name:'Emma',role:'Study Partner',lines:['Mau bantu aku latihan speaking hari ini?','Ayo belajar bareng supaya tidak terasa berat.','Aku punya challenge vocabulary baru!']},
+    lin:{emoji:'👩🏻‍🏫',name:'Lin',role:'Mandarin Mentor',lines:['今天也加油！Mari latihan tone dengan santai.','Tone ketiga perlu turun dulu sebelum naik.','Sedikit latihan Hanzi setiap hari akan sangat membantu.']},
+    tanaka:{emoji:'👨🏻‍🏫',name:'Tanaka',role:'Japanese Sensei',lines:['焦らず、一歩ずつ。Pelan-pelan tetapi konsisten.','Hari ini mari mengulang partikel yang sering tertukar.','JLPT bukan hanya hafalan—pahami pola kalimatnya.']},
+    anna:{emoji:'👩🏼‍🏫',name:'Anna',role:'Deutsch Coach',lines:['Los geht’s! Mari mulai tantangan Deutsch.','In German, verb position is your best clue.','Satu kalimat benar lebih baik daripada sepuluh yang terburu-buru.']},
+    error:{emoji:'😈',name:'Mr. Error',role:'Grammar Villain',lines:['HAHA! Coba temukan kesalahan yang kusembunyikan!','Kamu yakin itu Present Perfect?','Aku akan kembali dengan grammar error yang lebih sulit!']}
+  };
+  function hearts(n){return '❤️'.repeat(Math.min(5,n||0))+'♡'.repeat(Math.max(0,5-(n||0)))}
+  function toast(t){let e=$('#universeToast');if(!e)return;e.textContent=t;e.classList.add('show');clearTimeout(e._t);e._t=setTimeout(()=>e.classList.remove('show'),2200)}
+  function sync(){
+    const level=$('#uvLevel'),xp=$('#uvXp'),coins=$('#uvCoins'),streak=$('#uvStreak');
+    if(level)level.textContent=u.level;if(xp)xp.textContent=`${u.xp%100} / 100`;if(coins)coins.textContent=u.coins;if(streak)streak.textContent=u.streak;
+    $$('.uv-mission').forEach(el=>{const k=el.dataset.mission;const v=u.missions[k]||0;el.querySelector('.city-progress i')?.style.setProperty('width',`${Math.min(100,v*34)}%`);el.querySelector('[data-mission-count]')?.replaceChildren(document.createTextNode(`${Math.min(3,v)} / 3`))});
+    $$('.character-card').forEach(c=>{const k=c.dataset.character;c.querySelector('.heartbar').textContent=hearts(u.friendship[k])});
+    const hp=$('#bossHp');if(hp)hp.style.width=`${Math.max(0,100-u.cases*10)}%`;
+  }
+  function openDialog(key, custom){const c=chars[key]||chars.lexi;const m=$('#universeModal');$('#dialogEmoji').textContent=c.emoji;$('#dialogName').textContent=c.name;$('#dialogRole').textContent=c.role;$('#dialogText').textContent=custom||c.lines[Math.floor(Math.random()*c.lines.length)];$('#dialogOptions').innerHTML=`<button data-dialog-action="chat">💬 Ngobrol lagi</button><button data-dialog-action="mission">🎯 Ambil misi dari ${c.name}</button><button data-dialog-action="gift">🎁 Beri hadiah 20 Coins</button><button data-dialog-action="close">Nanti dulu</button>`;m.dataset.character=key;m.classList.add('open')}
+  function closeDialog(){$('#universeModal')?.classList.remove('open')}
+  function randomMission(){const arr=[['grammar','Temukan 5 grammar errors',35,'practice'],['vocab','Pelajari 10 kata baru',30,'vocabulary'],['listening','Selesaikan 1 Listening Lab',40,'listening'],['speaking','Latihan speaking 3 menit',45,'check']];return arr[Math.floor(Math.random()*arr.length)]}
+  function takeMission(){const [k,title,xp,page]=randomMission();u.missions[k]=Math.min(3,(u.missions[k]||0)+1);save();closeDialog();toast(`Misi diterima: ${title}`);setTimeout(()=>{if(window.showPage)window.showPage(page);else document.querySelector(`[data-page="${page}"]`)?.click()},650)}
+  function characterGift(key){if(u.coins<20){toast('Coins belum cukup');return}u.coins-=20;u.friendship[key]=Math.min(5,(u.friendship[key]||0)+1);save();$('#dialogText').textContent=`${chars[key].name} senang menerima hadiahmu! Friendship meningkat.`;toast('Friendship +1 ❤️')}
+  function grammarCase(){openDialog('watson','CASE 01 — The Mysterious Student. Pilih kalimat yang benar untuk mengalahkan Mr. Error.');$('#dialogOptions').innerHTML=`<button data-case="wrong">Yesterday I have went to school.</button><button data-case="right">Yesterday I went to school.</button><button data-case="wrong">Yesterday I have go to school.</button>`}
+  function render(){
+    const host=$('#universePage'); if(!host)return;
+    host.innerHTML=`<div class="universe-page">
+      <article class="universe-hero card"><div class="universe-hero-inner"><div><span class="universe-badge">🌍 Adventure Mode · Lexora Universe</span><h3 class="universe-title">Belajar terasa seperti <span>petualangan</span></h3><p class="universe-sub">Temui karakter interaktif, selesaikan misi, buka negara baru, kumpulkan XP dan bangun persahabatan sambil belajar English, Mandarin, Japanese, dan German.</p><div class="universe-actions"><button class="primary" id="uvStartMission">Mulai Misi Hari Ini</button><button class="secondary" id="uvGrammarCase">🕵️ Grammar Detective</button></div></div><div class="universe-character-stage"><div class="universe-speech" id="uvSpeech">Hai! Aku Lexi. Klik aku untuk ngobrol 👋</div><div class="universe-character" data-character="lexi">🦉</div></div></div></article>
+      <div class="universe-stats"><div class="universe-stat"><i>🏆</i><div><b>Lv. <span id="uvLevel"></span></b><small>Explorer Rank</small></div></div><div class="universe-stat"><i>⚡</i><div><b id="uvXp"></b><small>XP ke level berikutnya</small></div></div><div class="universe-stat"><i>🪙</i><div><b id="uvCoins"></b><small>Lexora Coins</small></div></div><div class="universe-stat"><i>🔥</i><div><b><span id="uvStreak"></span> hari</b><small>Adventure streak</small></div></div></div>
+      <div class="section-head"><div><p class="eyebrow">Explore</p><h3>Lexora City</h3></div><span class="soft-pill">Klik gedung untuk mulai</span></div>
+      <div class="city-grid">
+        ${[['🏫','Grammar Academy','Pecahkan grammar crime dan boss battle.','grammar','practice'],['📚','Vocabulary Library','Buka rak IELTS, HSK, JLPT, dan Deutsch.','vocab','vocabulary'],['🎧','Listening Studio','Dictation, Missing Words, Word Catch, Shadowing.','listening','listening'],['🗣️','Speaking Hall','Interview dan speaking challenge.','speaking','check'],['🤖','AI Research Lab','Analisis writing dan speaking dengan Byte.','ai','check'],['🏆','Hall of Fame','Lihat badge, achievement, dan perjalananmu.','hall','achievements']].map((x,i)=>`<article class="city-place uv-mission" data-mission="${x[3]}" data-jump-universe="${x[4]}"><span class="city-tag" data-mission-count>0 / 3</span><div class="city-icon">${x[0]}</div><h4>${x[1]}</h4><p>${x[2]}</p><div class="city-progress"><i style="width:0%"></i></div></article>`).join('')}
+      </div>
+      <div class="universe-layout"><article class="card pad-card"><div class="section-head"><div><p class="eyebrow">Mission Board</p><h3>Misi Hari Ini</h3></div><button class="small-btn" id="uvRandomEvent">Random Event</button></div>
+        ${[['🕵️','Grammar Crime','Temukan kesalahan tense dalam artikel.','+35 XP'],['📖','Word Collector','Pelajari 10 kata dari bahasa aktif.','+30 XP'],['🎙️','Voice Mission','Selesaikan satu latihan speaking.','+45 XP']].map((m,i)=>`<div class="mission-card ${i===0?'active':''}"><div class="mission-icon">${m[0]}</div><div><h5>${m[1]}</h5><p>${m[2]}</p></div><div class="mission-reward">${m[3]}</div></div>`).join('')}
+      </article><article class="case-board"><p class="eyebrow">BOSS ARENA</p><h3>😈 Mr. Error</h3><p>Kalahkan boss dengan menyelesaikan grammar case.</p><div class="boss-meter"><i id="bossHp"></i></div><small>HP berkurang setiap bukti grammar diterima.</small><button class="primary full" id="uvBossFight" style="margin-top:14px">⚔️ Mulai Battle</button></article></div>
+      <div class="section-head" style="margin-top:20px"><div><p class="eyebrow">Friends</p><h3>Karakter Interaktif</h3></div><span class="soft-pill">Friendship System</span></div>
+      <div class="character-grid">${Object.entries(chars).map(([k,c])=>`<article class="character-card" data-character="${k}"><div class="character-avatar">${c.emoji}</div><b>${c.name}</b><small>${c.role}</small><div class="heartbar">${hearts(u.friendship[k])}</div></article>`).join('')}</div>
+      <div class="section-head" style="margin-top:20px"><div><p class="eyebrow">Story Mode</p><h3>World Map</h3></div></div>
+      <div class="world-strip">${[['🇬🇧','England','School → Hotel → Airport → IELTS Final'],['🇨🇳','China','学校 → 餐厅 → 高铁 → Scholarship'],['🇯🇵','Japan','Tokyo → Train → School → JLPT'],['🇩🇪','Germany','Berlin → Apartment → University → Goethe']].map((w,i)=>`<article class="world-card ${i>Math.floor(u.level/3)?'locked':''}"><div class="world-flag">${w[0]}</div><h4>${w[1]} ${i>Math.floor(u.level/3)?'🔒':'🔓'}</h4><p>${w[2]}</p></article>`).join('')}</div>
+    </div>`;
+    bind(); sync();
+  }
+  function bind(){
+    $$('[data-character]').forEach(x=>x.addEventListener('click',()=>openDialog(x.dataset.character)));
+    $$('[data-jump-universe]').forEach(x=>x.addEventListener('click',()=>document.querySelector(`[data-page="${x.dataset.jumpUniverse}"]`)?.click()));
+    $('#uvStartMission')?.addEventListener('click',takeMission);$('#uvGrammarCase')?.addEventListener('click',grammarCase);$('#uvBossFight')?.addEventListener('click',grammarCase);
+    $('#uvRandomEvent')?.addEventListener('click',()=>{openDialog('emma','🚨 Emergency! Seorang turis membutuhkan bantuan. Selesaikan satu latihan speaking untuk mendapatkan bonus 60 XP!');$('#dialogOptions').innerHTML='<button data-emergency>Terima Emergency Mission</button><button data-dialog-action="close">Nanti dulu</button>'});
+  }
+  document.addEventListener('click',e=>{const a=e.target.closest('[data-dialog-action]');if(a){if(a.dataset.dialogAction==='close')closeDialog();if(a.dataset.dialogAction==='chat')openDialog($('#universeModal').dataset.character);if(a.dataset.dialogAction==='mission')takeMission();if(a.dataset.dialogAction==='gift')characterGift($('#universeModal').dataset.character)}const c=e.target.closest('[data-case]');if(c){if(c.dataset.case==='right'){u.cases++;u.missions.grammar=Math.min(3,(u.missions.grammar||0)+1);addXP(35,'Evidence Accepted');$('#dialogText').textContent='✔ Evidence Accepted! “Yesterday” membutuhkan Simple Past: went.';$('#dialogOptions').innerHTML='<button data-dialog-action="close">Lanjutkan petualangan</button>';sync()}else{$('#dialogText').textContent='❌ Evidence Rejected. Professor Grammar: “Yesterday” tidak digunakan dengan Present Perfect.';toast('Coba perhatikan time expression')}}if(e.target.closest('[data-emergency]')){closeDialog();addXP(60,'Emergency Mission');document.querySelector('[data-page="check"]')?.click()}});
+  document.addEventListener('DOMContentLoaded',()=>{render();$('#universeModalClose')?.addEventListener('click',closeDialog);$('#universeModal')?.addEventListener('click',e=>{if(e.target.id==='universeModal')closeDialog()})});
+})();

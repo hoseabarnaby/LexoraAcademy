@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <style>
+    html.lexora-session-hint #authGate{display:none!important}
+    html,body{max-width:100%;overflow-x:hidden}
+  </style>
+  <script>
+    // Hindari layar login berkedip saat sesi Supabase masih tersimpan.
+    (() => {
+      try {
+        const key = Object.keys(localStorage).find(k => /^sb-.*-auth-token$/.test(k));
+        if (!key) return;
+        const raw = JSON.parse(localStorage.getItem(key) || '{}');
+        const session = raw?.currentSession || raw;
+        const expiresAt = Number(session?.expires_at || session?.expiresAt || 0);
+        if (session?.access_token && (!expiresAt || expiresAt * 1000 > Date.now())) {
+          document.documentElement.classList.add('lexora-session-hint');
+        }
+      } catch {}
+    })();
+  </script>
+  <title>Lexora Academy | IELTS + HSK + JLPT + German CEFR + AI Feedback</title>
+  <meta name="description" content="IELTS English, HSK Mandarin, JLPT Japanese, and German CEFR A1–C2 learning website with AI feedback." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="assets/lexora-logo.svg" />
+  <link rel="shortcut icon" href="assets/lexora-logo.svg" />
+  <link rel="apple-touch-icon" href="assets/lexora-logo.svg" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="universe.css">
+  <link rel="stylesheet" href="learning-system.css">
+  <link rel="stylesheet" href="exam-center.css">
+  <link rel="stylesheet" href="v5-ui.css">
+</head>
+<body>
+  <div class="mode-loading-overlay" id="modeLoadingOverlay" aria-hidden="true">
+    <div class="mode-loading-card">
+      <img src="assets/lexora-logo.svg" alt="Lexora">
+      <div><b id="modeLoadingTitle">Menyiapkan materi…</b><small id="modeLoadingText">Materi bahasa dimuat satu kali agar website tetap ringan.</small></div>
+      <span class="mode-loader"></span>
+    </div>
+  </div>
+  <div class="auth-gate" id="authGate">
+    <div class="auth-shell">
+      <div class="auth-brand">
+        <img src="assets/lexora-logo.svg" alt="Lexora" />
+        <div><h1>Lexora Academy</h1><p>IELTS · HSK · JLPT · Deutsch</p></div>
+      </div>
+      <div class="auth-card card">
+        <span class="soft-pill">Progress tersimpan per akun</span>
+        <h2 id="authTitle">Masuk ke Lexora</h2>
+        <p class="muted" id="authSubtitle">Lanjutkan vocabulary, saved words, practice, dan achievement dari perangkat mana pun.</p>
+        <div class="auth-mode-tabs" role="tablist" aria-label="Pilih mode akun">
+          <button class="active" id="authLoginTab" type="button" role="tab" aria-selected="true">Masuk</button>
+          <button id="authSignupTab" type="button" role="tab" aria-selected="false">Daftar</button>
+        </div>
+        <form id="authForm" class="auth-form">
+          <label>Email<input id="authEmail" type="email" autocomplete="email" required placeholder="nama@email.com" /></label>
+          <label>Password<input id="authPassword" type="password" autocomplete="current-password" minlength="6" required placeholder="Minimal 6 karakter" /></label>
+          <button class="primary full" id="authSubmitBtn" type="submit">Masuk</button>
+        </form>
+        <button class="auth-switch" id="authSwitchBtn" type="button">Belum punya akun? <b>Daftar</b></button>
+        <div id="authResult" class="result-box"></div>
+        <p class="auth-config-note" id="authConfigNote"></p>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="system-lock-overlay" id="systemLockOverlay" aria-hidden="true">
+    <div class="system-lock-card card" role="alertdialog" aria-modal="true" aria-labelledby="systemLockTitle">
+      <div class="system-lock-icon">🔒</div>
+      <span class="system-lock-badge">AKSES DIBATASI</span>
+      <h2 id="systemLockTitle">Akun kamu terblokir</h2>
+      <p id="systemLockMessage">Akun ini sementara tidak dapat menggunakan Lexora Academy.</p>
+      <div class="system-lock-meta" id="systemLockMeta"></div>
+      <small>Merasa blokir ini keliru? Kirim pengajuan banding beserta bukti ke admin Lexora.</small>
+      <button class="primary full" id="systemLockAppealBtn" type="button">⚖️ Hubungi Admin / Ajukan Banding</button>
+      <button class="secondary full" id="systemLockLogoutBtn" type="button">Keluar dari akun</button>
+    </div>
+  </div>
+
+  <div class="trial-status-bar" id="trialStatusBar" aria-hidden="true">
+    <div><span>🎁 Akses percobaan</span><b id="trialCountdown">30:00</b></div>
+    <small id="trialStatusText">Nikmati seluruh fitur sampai waktu habis.</small>
+    <a id="trialBuyMini" href="#" target="_blank" rel="noopener">Beli akses</a>
+  </div>
+
+  <div class="trial-expired-overlay" id="trialExpiredOverlay" aria-hidden="true">
+    <div class="trial-expired-card card" role="alertdialog" aria-modal="true" aria-labelledby="trialExpiredTitle">
+      <div class="trial-expired-icon">⏳</div>
+      <span class="soft-pill">MASA COBA SELESAI</span>
+      <h2 id="trialExpiredTitle">Waktu percobaanmu sudah habis</h2>
+      <p>Kamu sudah mencoba fitur Lexora. Untuk melanjutkan vocabulary, exam, listening, AI feedback, dan progress belajar, aktifkan akses penuh.</p>
+      <div class="trial-expired-actions">
+        <a class="primary full" id="trialPurchaseBtn" href="#" target="_blank" rel="noopener">Beli akses penuh</a>
+        <a class="secondary full" id="trialContactBtn" href="#" target="_blank" rel="noopener">Hubungi admin</a>
+        <button class="secondary full" id="trialLogoutBtn" type="button">Keluar dari akun</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="language-picker-modal" id="languagePickerModal" aria-hidden="true">
+    <div class="language-picker-card card" role="dialog" aria-modal="true" aria-labelledby="languagePickerTitle">
+      <div class="language-picker-head">
+        <div>
+          <span class="soft-pill">LEXORA LANGUAGES</span>
+          <h2 id="languagePickerTitle">Pilih bahasa yang mau dipelajari</h2>
+          <p>Progress setiap bahasa tetap tersimpan di akunmu.</p>
+        </div>
+        <button class="close" id="closeLanguagePicker" type="button" aria-label="Tutup pilih bahasa">×</button>
+      </div>
+      <div class="language-picker-grid">
+        <button class="language-choice" data-language-mode="english" type="button">
+          <span class="language-flag">🇬🇧</span><span class="language-copy"><small>ENGLISH</small><b>IELTS English</b><p>Band 5 sampai Band 8–9</p></span><strong data-language-status>Pilih</strong>
+        </button>
+        <button class="language-choice" data-language-mode="mandarin" type="button">
+          <span class="language-flag">🇨🇳</span><span class="language-copy"><small>中文</small><b>Mandarin HSK</b><p>HSK 1 sampai HSK 6</p></span><strong data-language-status>Pilih</strong>
+        </button>
+        <button class="language-choice" data-language-mode="japanese" type="button">
+          <span class="language-flag">🇯🇵</span><span class="language-copy"><small>日本語</small><b>Japanese JLPT</b><p>JLPT N5 sampai N1</p></span><strong data-language-status>Pilih</strong>
+        </button>
+        <button class="language-choice" data-language-mode="german" type="button">
+          <span class="language-flag">🇩🇪</span><span class="language-copy"><small>DEUTSCH</small><b>German · Goethe / CEFR</b><p>CEFR A1 sampai C2</p></span><strong data-language-status>Pilih</strong>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="block-appeal-overlay" id="blockAppealOverlay" aria-hidden="true">
+    <div class="block-appeal-card card" role="dialog" aria-modal="true" aria-labelledby="blockAppealTitle">
+      <button class="close" id="closeBlockAppeal" type="button" aria-label="Tutup form banding">×</button>
+      <span class="soft-pill">⚖️ PENGAJUAN BANDING</span>
+      <h2 id="blockAppealTitle">Hubungi admin Lexora</h2>
+      <p class="muted">Jelaskan kenapa blokir akunmu perlu ditinjau ulang. Kamu boleh menambahkan screenshot atau foto sebagai bukti.</p>
+      <form id="blockAppealForm" class="block-appeal-form">
+        <label>Pesan banding
+          <textarea id="blockAppealMessage" rows="6" maxlength="1800" required placeholder="Jelaskan masalahnya dengan singkat dan jelas..."></textarea>
+        </label>
+        <label class="appeal-upload" for="blockAppealImage">
+          <input id="blockAppealImage" type="file" accept="image/png,image/jpeg,image/webp" />
+          <span class="appeal-upload-icon">🖼️</span>
+          <span><b>Upload bukti gambar</b><small>PNG, JPG, atau WEBP · maksimal 5 MB</small></span>
+          <em>Pilih file</em>
+        </label>
+        <div class="appeal-image-preview" id="blockAppealPreview"></div>
+        <button class="primary full" id="blockAppealSubmitBtn" type="submit">Kirim pengajuan banding</button>
+        <div id="blockAppealResult" class="result-box" aria-live="polite"></div>
+      </form>
+    </div>
+  </div>
+
+  <div class="system-announcement-overlay" id="systemAnnouncementOverlay" aria-hidden="true">
+    <div class="system-announcement-card card" role="dialog" aria-modal="true" aria-labelledby="systemAnnouncementTitle">
+      <button class="close" id="systemAnnouncementClose" type="button" aria-label="Tutup pemberitahuan">×</button>
+      <div class="system-announcement-icon" id="systemAnnouncementIcon">📢</div>
+      <span class="soft-pill" id="systemAnnouncementLabel">Pemberitahuan Lexora</span>
+      <h2 id="systemAnnouncementTitle">Pembaruan Lexora</h2>
+      <p id="systemAnnouncementMessage"></p>
+      <button class="primary full" id="systemAnnouncementOk" type="button">Mengerti</button>
+    </div>
+  </div>
+
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <img class="logo logo-img" src="assets/lexora-logo.svg" alt="Lexora logo" />
+        <div>
+          <h1>Lexora</h1>
+          <p id="brandSubtitle">English IELTS Studio</p>
+        </div>
+      </div>
+
+      <div class="mode-card" id="modeCard">
+        <span id="modeBadge">ENGLISH MODE</span>
+        <b id="modeTitle">IELTS English</b>
+        <small id="modeDesc">Vocabulary, reading, listening, writing, speaking.</small>
+        <button id="sideSwitchBtn">Pilih Bahasa</button>
+      </div>
+
+      <nav class="nav">
+        <button class="nav-btn active" data-page="dashboard"><span>⌂</span><b data-label="dashboard">Dashboard</b></button>
+        <button class="nav-btn" data-page="learning"><span>🧭</span><b>Learning Path</b></button>
+        <button class="nav-btn" data-page="universe"><span>🌍</span><b>Adventure</b></button>
+        <button class="nav-btn" data-page="vocabulary"><span>Aa</span><b data-label="vocabulary">Vocabulary</b></button>
+        <button class="nav-btn" data-page="practice"><span>✓</span><b data-label="practice">IELTS Practice</b></button>
+        <button class="nav-btn" data-page="exam"><span>📝</span><b>Exam Center</b></button>
+        <button class="nav-btn" data-page="listening"><span>🎧</span><b data-label="listening">Listening</b></button>
+        <button class="nav-btn" data-page="check"><span>✎</span><b data-label="check">Practice Check</b></button>
+        <button class="nav-btn" data-page="expressions"><span>“”</span><b data-label="expressions">Expressions</b></button>
+        <button class="nav-btn" data-page="achievements"><span>🏅</span><b data-label="achievements">Achievements</b></button>
+        <button class="nav-btn" data-page="progress"><span>↗</span><b data-label="progress">Progress</b></button>
+        <button class="nav-btn bug-nav-btn" type="button" data-bug-open><span>🐞</span><b>Kirim Bug</b></button>
+      </nav>
+
+      <button class="sidebar-user-card" type="button" data-account-open>
+        <span class="sidebar-user-avatar" id="sidebarUserAvatar">U</span>
+        <span><b id="sidebarUserName">User</b><small id="sidebarUserEmail">Belum login</small></span>
+        <i>›</i>
+      </button>
+
+      <div class="sidebar-note" id="sidebarNote">
+        <b>Flow English:</b><br>
+        1. Buka vocabulary list<br>
+        2. Latihan IELTS<br>
+        3. Cek writing/speaking<br>
+        4. Review hard words
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <button class="menu-btn" id="menuBtn">☰</button>
+        <div class="top-title">
+          <p class="eyebrow" id="topEyebrow">English learning space</p>
+          <h2 id="pageTitle">Dashboard</h2>
+        </div>
+        <div class="top-actions">
+          <button class="mode-switch" id="topSwitchBtn">Pilih Bahasa</button>
+          <button class="round bug-top-btn" data-bug-open title="Kirim Bug">🐞</button>
+          <button class="round account-top-btn" data-account-open title="Akun"><span id="topUserInitial">U</span></button>
+          <button class="round" id="dailyBtn" title="Daily Boost">☀</button>
+        </div>
+      </header>
+
+      <section class="page active" id="dashboardPage">
+        <article class="hero card">
+          <div>
+            <p class="eyebrow" id="heroKicker">Start with English first</p>
+            <h3 id="heroTitle">Belajar IELTS dibuat ringan</h3>
+            <p id="heroText">Pertama kali masuk, kamu langsung berada di halaman English. Klik “Pilih Bahasa” untuk membuka English, Mandarin, Japanese, atau German.</p>
+            <div class="hero-actions">
+              <button class="primary" data-jump="vocabulary" id="heroPrimary">Start English Vocabulary</button>
+              <button class="secondary" id="heroSwitchBtn">Pilih Bahasa</button>
+            </div>
+          </div>
+          <div class="hero-stats">
+            <div><b id="dashVocabTotal">0</b><small id="dashVocabLabel">IELTS words</small></div>
+            <div><b id="dashPracticeTotal">0</b><small id="dashPracticeLabel">IELTS modules</small></div>
+            <div><b id="dashListeningTotal">0</b><small id="dashListeningLabel">English lessons</small></div>
+          </div>
+        </article>
+
+        <div class="quick-grid" id="quickGrid"></div>
+
+        <div class="two-col">
+          <article class="card pad-card">
+            <div class="section-head">
+              <div><p class="eyebrow">Today</p><h3>Daily Boost</h3></div>
+              <button class="small-btn" id="openDailyFromDash">Open</button>
+            </div>
+            <div id="dailyPreview" class="mini-list"></div>
+          </article>
+          <article class="card pad-card">
+            <div class="section-head">
+              <div><p class="eyebrow">Progress</p><h3 id="progressPreviewTitle">English Progress</h3></div>
+              <button class="small-btn" data-jump="progress">Detail</button>
+            </div>
+            <div class="mini-progress">
+              <div><b id="dashLearned">0</b><span>Learned</span></div>
+              <div><b id="dashHard">0</b><span>Hard words</span></div>
+              <div><b id="dashDone">0</b><span>Done modules</span></div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+
+
+      <section class="page" id="learningPage">
+        <div id="learningSystemRoot"></div>
+      </section>
+
+      <section class="page" id="universePage"></section>
+
+      <section class="page" id="examPage"><div id="examCenterRoot"></div></section>
+
+      <section class="page" id="vocabularyPage">
+        <div class="page-intro card">
+          <p class="eyebrow" id="vocabKicker">English vocabulary</p>
+          <h3 id="vocabIntroTitle">IELTS vocabulary list dulu, flashcard belakangan</h3>
+          <p id="vocabIntroText">Semua kata tampil sebagai list agar tidak bingung. Klik kata untuk detail, lalu tandai Learned atau Difficult.</p>
+        </div>
+        <div class="toolbar card">
+          <input id="vocabSearch" placeholder="Cari kata / arti / contoh..." />
+          <select id="vocabLevel"><option value="all">All levels</option></select>
+          <button class="primary" id="flashcardBtn">Review Flashcard</button>
+        </div>
+        <div id="vocabQuickFilters" class="filter-chips"></div>
+        <div class="vocab-layout">
+          <div class="card list-card">
+            <div class="list-head">
+              <b id="vocabCount">0 words</b>
+            </div>
+            <div id="vocabList" class="vocab-list"></div>
+          </div>
+          <div class="card detail-card" id="vocabDetail"><p class="muted">Klik kata di list untuk melihat detail.</p></div>
+        </div>
+      </section>
+
+      <section class="page" id="practicePage">
+        <div class="page-intro card">
+          <p class="eyebrow" id="practiceKicker">IELTS practice</p>
+          <h3 id="practiceIntroTitle">Bank soal besar: 40 soal per practice</h3>
+          <p id="practiceIntroText">Tiap materi punya banyak set latihan. Satu practice berisi 40 soal agar latihan terasa seperti bank soal.</p>
+        </div>
+        <div class="toolbar card">
+          <input id="practiceSearch" placeholder="Cari module / topik..." />
+          <select id="practiceType"><option value="all">All practice</option></select>
+          <select id="practiceLevel"><option value="all">All levels</option></select>
+        </div>
+        <div id="practiceQuickFilters" class="filter-chips"></div>
+        <div id="practiceGrid" class="module-grid"></div>
+      </section>
+
+      <section class="page" id="listeningPage">
+        <div class="page-intro card">
+          <p class="eyebrow" id="listeningKicker">English listening</p>
+          <h3 id="listeningIntroTitle">Listening practice yang simpel</h3>
+          <p id="listeningIntroText">Pilih topik, dengarkan audio/video, lalu latihan Dictation, Missing Words, Word Catch, atau Shadowing.</p>
+        </div>
+
+        <div class="lab-status-strip">
+          <div class="lab-status-pill"><span>🔥</span><div><b id="listeningStreak">0</b><small>day streak</small></div></div>
+          <div class="lab-status-pill"><span>⚡</span><div><b id="listeningXp">0 XP</b><small>learning XP</small></div></div>
+          <div class="lab-status-pill"><span>🏆</span><div><b id="listeningLevelStat">Lv. 1</b><small>Lexora level</small></div></div>
+          <div class="lab-status-pill combo"><span>🔥</span><div><b id="listeningComboStat">Combo x0</b><small>best <span id="listeningBestCombo">0</span></small></div></div>
+        </div>
+
+        <div class="toolbar card">
+          <input id="listeningSearch" placeholder="Cari topic, title, source..." />
+          <select id="listeningLevel"><option value="all">All levels</option></select>
+          <button class="primary" id="randomListening">Random Lesson</button>
+        </div>
+
+        <article class="lab-mission-card card">
+          <div class="lab-mission-copy">
+            <div class="lab-mission-icon">🎯</div>
+            <div><b>Daily Listening Mission</b><p id="listeningMissionCopy">Selesaikan 3 drill listening hari ini.</p></div>
+          </div>
+          <div class="lab-mission-progress"><div class="lab-progress"><i id="listeningMissionBar"></i></div><span id="listeningMissionText">0 / 3 selesai</span></div>
+          <div class="lab-reward">+100 XP</div>
+        </article>
+
+        <div class="listen-layout lab-listen-layout">
+          <div id="listenList" class="lesson-list card lab-library"></div>
+          <div id="listenDetail" class="listen-detail card lab-detail"><p class="muted">Pilih lesson di kiri.</p></div>
+        </div>
+
+        <div id="listeningAchievementRow" class="lab-achievement-row"></div>
+      </section>
+
+      <section class="page" id="checkPage">
+        <div class="page-intro card">
+          <p class="eyebrow" id="checkKicker">English checker</p>
+          <h3 id="checkIntroTitle">Writing & Speaking</h3>
+          <p id="checkIntroText">Kerjakan latihan writing dan speaking. Jawaban pilihan ganda dan isian dicek langsung. Jawaban uraian bisa diberi feedback otomatis.</p>
+        </div>
+
+
+        <div class="ai-grid">
+          <article class="card pad-card">
+            <h3 id="writingTitle">English Writing Check</h3>
+            <select id="writingTask"></select>
+            <div class="writing-prompt-card">
+              <div class="writing-prompt-head">
+                <div>
+                  <span class="soft-pill" id="writingTaskType">Writing task</span>
+                  <strong id="writingPromptTitle">Pertanyaan latihan</strong>
+                </div>
+                <button class="small-btn" id="newWritingPrompt" type="button">Soal lain</button>
+              </div>
+              <div id="writingPrompt" class="writing-prompt-text"></div>
+              <div class="writing-meta">
+                <span id="writingInstruction">Jawab sesuai instruksi.</span>
+                <b id="writingWordCount">0 kata</b>
+              </div>
+            </div>
+            <textarea id="writingText" rows="10" placeholder="Tulis jawabanmu di sini..."></textarea>
+            <div class="btn-row"><button class="secondary" id="localWritingCheck">Check</button><button class="primary" id="aiWritingCheck">AI Feedback</button><button class="secondary" id="saveWritingBtn" type="button">🔖 Simpan Jawaban</button></div>
+            <div id="writingResult" class="result-box ai-output" aria-live="polite"></div>
+          </article>
+
+          <article class="card pad-card">
+            <h3 id="speakingTitle">English Speaking Check</h3>
+            <select id="speakPrompt"></select>
+            <div class="prompt-box" id="speakingTarget"></div>
+            <div class="btn-row"><button class="secondary" id="startSpeak">Start recording</button><button class="secondary" id="stopSpeak">Stop</button><button class="primary" id="aiSpeakingCheck">AI Feedback</button></div>
+            <textarea id="speechTranscript" rows="6" placeholder="Hasil rekaman muncul di sini..."></textarea>
+            <div id="speakingResult" class="result-box ai-output" aria-live="polite"></div>
+          </article>
+        </div>
+
+        <article class="card tone-card" id="toneCard">
+          <div class="section-head"><div><p class="eyebrow">Mandarin only</p><h3>Mandarin Tone Trainer 1–4</h3></div><button class="small-btn" id="newTone">New Tone</button></div>
+          <p class="muted">Pilih kata HSK, dengarkan contoh, lalu rekam. Sistem membaca kurva pitch per suku kata—bukan sekadar menebak Hanzi dari speech-to-text.</p>
+          <div class="tone-word-picker">
+            <input id="toneWordSearch" placeholder="Cari Hanzi atau pinyin, contoh: 现在 / xiàn zài" autocomplete="off" />
+            <button class="secondary" id="loadToneWord">Pakai kata</button>
+          </div>
+          <div class="tone-quick-words" id="toneQuickWords"></div>
+          <div class="tone-grid">
+            <div>
+              <div class="tone-target" id="toneTarget">现在<br><small>xiàn zài</small></div>
+              <div class="tone-syllable-targets" id="toneSyllableTargets"></div>
+            </div>
+            <div>
+              <div class="tone-options" id="toneOptions"></div>
+              <div class="settings-row"><input id="toneInput" placeholder="Ketik pinyin number, contoh: xian4 zai4" /><button class="primary" id="checkToneInput">Check pinyin</button></div>
+              <div class="tone-pitch-chart" id="tonePitchChart"></div>
+              <div class="result-box tone-result-box" id="toneResult"></div>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section class="page" id="expressionsPage">
+        <div class="page-intro card">
+          <p class="eyebrow" id="exprKicker">English expressions</p>
+          <h3 id="exprIntroTitle">Useful expressions & idioms</h3>
+          <p id="exprIntroText">English mode menampilkan IELTS expressions. Mandarin mode menampilkan frasa Mandarin dan chengyu.</p>
+        </div>
+        <div class="toolbar card">
+          <input id="exprSearch" placeholder="Cari phrase / arti / contoh..." />
+          <select id="exprType"><option value="all">All types</option></select>
+        </div>
+        <div id="exprGrid" class="expr-grid"></div>
+      </section>
+
+
+      <section class="page" id="achievementsPage">
+        <div class="page-intro card achievement-hero">
+          <div>
+            <p class="eyebrow">Achievements</p>
+            <h3>Badge hasil belajarmu</h3>
+            <p>Badge dan progress belajarmu tersimpan aman. Kamu bisa lanjut belajar kapan saja dari perangkat lain.</p>
+          </div>
+          <div class="achievement-count"><b id="achievementUnlocked">0</b><span>/ <strong id="achievementTotal">0</strong> unlocked</span></div>
+        </div>
+        <div id="achievementGrid" class="achievement-grid"></div>
+      </section>
+
+      <section class="page" id="progressPage">
+        <div class="page-intro card">
+          <p class="eyebrow">Progress</p>
+          <h3 id="progressTitle">English Progress</h3>
+          <p>Lihat kata yang sudah dipelajari, latihan yang selesai, dan skor rata-rata.</p>
+        </div>
+        <div class="stats-grid">
+          <div class="card stat"><b id="statLearned">0</b><span>Learned words</span></div>
+          <div class="card stat"><b id="statHard">0</b><span>Difficult words</span></div>
+          <div class="card stat"><b id="statDone">0</b><span>Done modules</span></div>
+          <div class="card stat"><b id="statScore">0%</b><span>Average score</span></div>
+          <div class="card stat"><b id="statSaved">0</b><span>Saved words</span></div>
+        </div>
+        <div class="progress-lists">
+          <div class="card pad-card">
+            <div class="section-head"><div><p class="eyebrow">Hard Words</p><h3>Kata yang perlu diulang</h3></div><button class="small-btn" id="reviewHardBtn">Review</button></div>
+            <div id="hardWordsList" class="mini-list"></div>
+          </div>
+          <div class="card pad-card">
+            <div class="section-head"><div><p class="eyebrow">Saved Words</p><h3>Kata yang kamu simpan</h3></div></div>
+            <div id="savedWordsList" class="mini-list"></div>
+          </div>
+          <div class="card pad-card">
+            <div class="section-head"><div><p class="eyebrow">Saved Writing</p><h3>Jawaban yang kamu simpan</h3></div></div>
+            <div id="savedWritingList" class="mini-list"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div class="floating" id="dailyModal">
+    <div class="modal boost-modal card">
+      <button class="close" id="closeDaily">×</button>
+      <span class="soft-pill" id="dailyPill">☀ Daily English Boost</span>
+      <h2 id="dailyTitle">Daily English Boost</h2>
+      <div id="dailyModalContent"></div>
+      <button class="primary full" id="startDailyPractice">Start Practice</button>
+    </div>
+  </div>
+
+  <div class="floating" id="practiceModal">
+    <div class="modal wide card">
+      <button class="close" id="closePractice">×</button>
+      <div id="practiceModalBody"></div>
+    </div>
+  </div>
+
+  <div class="floating" id="flashcardModal">
+    <div class="modal card">
+      <button class="close" id="closeFlashcard">×</button>
+      <span class="soft-pill" id="flashModeLabel">Review</span>
+      <h2 id="flashTitle">Flashcard Review</h2>
+      <div class="flashcard" id="flashcardBox">Loading...</div>
+      <div class="btn-row center"><button class="secondary" id="flipCard">Flip</button><button class="secondary" data-review="again">Again</button><button class="secondary" data-review="hard">Hard</button><button class="primary" data-review="good">Good</button><button class="primary" data-review="easy">Easy</button></div>
+    </div>
+  </div>
+
+  <div class="floating" id="bugModal">
+    <div class="modal bug-modal card">
+      <button class="close" id="closeBugModal">×</button>
+      <span class="soft-pill">🐞 Bug Report</span>
+      <h2>Kirim Bug</h2>
+      <p class="muted">Laporkan error, tampilan rusak, soal salah, atau saran fitur. Laporanmu langsung masuk ke dashboard admin Lexora.</p>
+      <form id="bugForm" class="bug-form">
+        <label>Jenis masalah
+          <select id="bugType" required>
+            <option value="Bug tampilan">Bug tampilan</option>
+            <option value="Error AI">Error AI</option>
+            <option value="Soal/kunci salah">Soal/kunci salah</option>
+            <option value="Vocab salah">Vocab salah</option>
+            <option value="Saran fitur">Saran fitur</option>
+            <option value="Lainnya">Lainnya</option>
+          </select>
+        </label>
+        <label>Judul singkat
+          <input id="bugTitle" required placeholder="Contoh: tombol AI Feedback tidak jalan" />
+        </label>
+        <label>Detail laporan
+          <textarea id="bugMessage" rows="5" required placeholder="Ceritakan apa yang terjadi dan langkah sebelum masalah muncul..."></textarea>
+        </label>
+        <div class="bug-two-col">
+          <label>Hasil yang kamu harapkan
+            <textarea id="bugExpected" rows="3" placeholder="Contoh: soal harus sesuai format IELTS Reading."></textarea>
+          </label>
+          <label>Yang terjadi sekarang
+            <textarea id="bugActual" rows="3" placeholder="Contoh: soal berulang dan tidak berhubungan dengan teks."></textarea>
+          </label>
+        </div>
+        <div class="bug-two-col">
+          <label>Tingkat gangguan
+            <select id="bugSeverity"><option value="low">Kecil</option><option value="medium" selected>Mengganggu</option><option value="high">Serius</option><option value="critical">Tidak bisa belajar</option></select>
+          </label>
+          <label>Materi/fitur terkait
+            <input id="bugContentRef" placeholder="Contoh: IELTS Reading Set 3 / Listening Lab" />
+          </label>
+        </div>
+        <label>Kontak opsional
+          <input id="bugContact" placeholder="Email/IG/WA kalau mau dihubungi" />
+        </label>
+        <label class="bug-upload" for="bugImage">
+          <span class="bug-upload-icon">🖼️</span>
+          <span><b>Tambahkan screenshot</b><small>Opsional · PNG, JPG, atau WEBP · maksimal 5 MB</small></span>
+          <input id="bugImage" type="file" accept="image/png,image/jpeg,image/webp" hidden />
+        </label>
+        <div id="bugImagePreview" class="bug-image-preview"></div>
+        <button class="primary full" type="submit">Kirim Bug</button>
+      </form>
+      <div id="bugResult" class="result-box"></div>
+    </div>
+  </div>
+
+
+  <div class="floating" id="accountModal">
+    <div class="modal account-modal card">
+      <button class="close" id="closeAccountModal">×</button>
+      <span class="soft-pill">Akun Lexora</span>
+      <div class="account-profile">
+        <div class="account-avatar" id="accountAvatar">U</div>
+        <div><h2 id="accountName">User</h2><p id="accountEmail" class="muted">-</p></div>
+      </div>
+      <div class="account-sync-status"><span class="sync-dot"></span><div><b>Cloud sync aktif</b><small>Progress belajarmu aman dan siap dilanjutkan kapan saja.</small></div></div>
+      <button class="secondary full" id="logoutBtn" type="button">Keluar dari akun</button>
+    </div>
+  </div>
+
+  <div id="achievementUnlockPop" class="achievement-unlock-pop" aria-live="polite">
+    <div class="achievement-unlock-icon" id="achievementUnlockIcon">🏅</div>
+    <div><small>ACHIEVEMENT UNLOCKED</small><b id="achievementUnlockTitle">Achievement</b><p id="achievementUnlockDesc">Progress baru terbuka.</p></div>
+  </div>
+
+
+  <div class="universe-modal" id="universeModal" aria-hidden="true">
+    <div class="universe-modal-card">
+      <button class="small-btn" id="universeModalClose" style="float:right">✕</button>
+      <div class="dialog-character" id="dialogEmoji">🦉</div>
+      <div class="dialog-name" id="dialogName">Lexi</div>
+      <p class="muted" id="dialogRole" style="text-align:center">Partner belajar</p>
+      <div class="dialog-text" id="dialogText"></div>
+      <div class="dialog-options" id="dialogOptions"></div>
+    </div>
+  </div>
+  <div class="universe-toast" id="universeToast"></div>
+
+  <div class="toast" id="toast"></div>
+
+  <!-- ============================================================
+       KONFIGURASI LEXORA — ISI DI SINI
+       Jangan pakai Supabase service_role / sb_secret_ di frontend.
+       ============================================================ -->
+  <script>
+    // SUPABASE: Project URL + Publishable/Anon key
+    window.LEXORA_SUPABASE_URL = "https://sefcrvihpoluymwqbvmh.supabase.co";
+    window.LEXORA_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNlZmNydmlocG9sdXltd3Fidm1oIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM3NDQ4OTMsImV4cCI6MjA5OTMyMDg5M30.Vo9nkjotAhE4IoC4flWzW0YQGUApnLEi7kiQ6T15uC4";
+
+    // OPENROUTER: dipakai untuk AI Feedback / Writing / Speaking
+    window.LEXORA_OPENROUTER_API_KEY = "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";
+    window.LEXORA_OPENROUTER_MODEL = "openrouter/free";
+    window.LEXORA_OPENROUTER_APP_NAME = "Lexora Academy";
+
+    // Link pembelian dan kontak untuk akun trial yang waktunya habis.
+    window.LEXORA_PURCHASE_URL = "https://lynk.id/akademijalanan/yg5xowy1d68y";
+    window.LEXORA_ADMIN_CONTACT_URL = "PASTE_WHATSAPP_OR_CONTACT_URL_HERE";
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="app.js"></script>
+  <script src="supabase-auth.js"></script>
+  <script src="universe.js"></script>
+  <script src="learning-system.js"></script>
+  <script src="exam-center.js"></script>
+  <script src="v5-runtime.js"></script>
+</body>
+</html>
